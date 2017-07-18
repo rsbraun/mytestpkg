@@ -1,0 +1,53 @@
+---
+title: "test_pkg"
+output: bookdown::word_document2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(mytestpkg)
+```
+
+
+
+Use new functions:
+
+1.
+
+```{r}
+a <- c(5,3,9,5)
+b <- c(4,6,7,3)
+new_fun(a,b)
+```
+
+<!--
+2.
+
+
+```{r}
+library(raster)
+rast <- raster(nrow=10, ncol=10)
+rast[] <- runif(ncell(rast))
+x <- tobler_fun(rast[])
+head(x)
+```
+
+-->
+
+<!--
+For help:
+http://r-pkgs.had.co.nz/
+
+Write License in Description:
+
+devtools::use_mit_license()
+
+Testing:
+
+devtools::use_testthat()
+
+-->
