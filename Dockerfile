@@ -9,7 +9,7 @@ COPY . /mjbtramp
 RUN . /etc/environment \
 
 # build this compendium package
-&& R -e devtools::install('/mytestokg', dep=TRUE)" \
+&& R -e "devtools::install('/mytestokg', dep=TRUE)" \
 
 
   # knitting  the manuscript
