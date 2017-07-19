@@ -55,7 +55,7 @@ devtools::use_testthat()
 -->
 
 
-Create Tabble \@ref(fig:tabel) [after @schauer1968wirkungsspezifitat]:
+Create Tabble \@ref(fig:table) [after @schauer1968wirkungsspezifitat]:
 
 
 ```{r owntable, echo=FALSE}
