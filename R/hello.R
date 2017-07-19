@@ -27,15 +27,15 @@ new_fun <- function(x,y){
 #' @export
 #'
 #' @examples
+#' (raster package required)
 #' rast <- raster(nrow=10, ncol=10)
 #' rast[] <- runif(ncell(rast))
 #' x <- tobler_fun(rast[])
 #' head(x)
-
-
 tobler_fun <- function(x){
-  rast <- raster::raster(nrow=10, ncol=10)
-  6 * exp(-3.5 * abs(x + 0.05))*(3/5)
-
+  rast  <- raster::raster(nrow=x, ncol=x)
+  rast[] <- runif(raster::ncell(rast))
+  y <- 6 * exp(-3.5 * abs(rast[] + 0.05))*(3/5)
+  return(y)
   }
 

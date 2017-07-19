@@ -1,6 +1,8 @@
 ---
 title: "test_pkg"
-output: bookdown::word_document2
+date: '`r Sys.Date()`'
+output: bookdown::pdf_document2
+bibliography: my_references.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -42,7 +44,7 @@ head(x)
 For help:
 http://r-pkgs.had.co.nz/
 
-Write License in Description:
+Write License (in Description):
 
 devtools::use_mit_license()
 
@@ -50,4 +52,26 @@ Testing:
 
 devtools::use_testthat()
 
+-->
+
+Create Table \@ref(fig:table) [after @schauer1968wirkungsspezifitat]:
+
+```{r owntable, echo=FALSE}
+tab <- matrix(c(3,5,8,3,5,3,6,4), ncol=2)
+colnames(tab) <- c("a","b")
+rownames(tab) <- c("test1", "test2", "test3", "test4")
+knitr::kable(head(tab), 
+             caption = "My new table")
+
+```
+
+Create Plot \@ref(fig:tableplot) :
+```{r tableplot, fig.cap="Plot Table"}
+plot(tab)
+```
+
+For help check @Hijmans2016
+<!--
+extract bibtex from package:
+toBibtex(citation("raster"))
 -->
