@@ -4,12 +4,12 @@ FROM rocker/verse:3.4.0
 # required
 MAINTAINER Ricarda Braun <ricarda.braun@fu-berlin.de>
 
-COPY . /mjbtramp
+COPY . /mytestpkg
 # go into the repo directory
 RUN . /etc/environment \
 
 # build this compendium package
-&& R -e "devtools::install('/mytestokg', dep=TRUE)" \
+&& R -e "devtools::install('/mytestpkg', dep=TRUE)" \
 
 
   # knitting  the manuscript
