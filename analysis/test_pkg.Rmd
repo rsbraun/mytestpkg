@@ -54,7 +54,7 @@ devtools::use_testthat()
 
 -->
 
-Create Table \@ref(fig:table) [after @schauer1968wirkungsspezifitat]:
+Create Tabble \@ref(fig:table) [after @schauer1968wirkungsspezifitat]:
 
 ```{r owntable, echo=FALSE}
 tab <- matrix(c(3,5,8,3,5,3,6,4), ncol=2)
