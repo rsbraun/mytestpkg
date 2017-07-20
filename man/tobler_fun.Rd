@@ -16,9 +16,9 @@ numeric values
 Tobler Function for off-path walking
 }
 \examples{
-(raster package required)
-rast <- raster(nrow=10, ncol=10)
-rast[] <- runif(ncell(rast))
-x <- tobler_fun(rast[])
-head(x)
+#(raster package required)
+#rast <- raster(nrow=10, ncol=10)
+#rast[] <- runif(ncell(rast))
+#x <- tobler_fun(rast[])
+#head(x)
 }
