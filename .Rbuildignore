@@ -7,3 +7,5 @@
 ^a\.rds$
 ^analysis$
 ^circle\.yml$
+^packrat/
+^\.Rprofile$

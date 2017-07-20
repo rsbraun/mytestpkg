@@ -79,3 +79,11 @@ For help check @Hijmans2016
 extract bibtex from package:
 toBibtex(citation("raster"))
 -->
+
+```{r}
+library(binford)
+data(LRB)
+knitr::kable(head(LRB))
+```
+
+
