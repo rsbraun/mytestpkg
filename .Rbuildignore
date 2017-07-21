@@ -9,3 +9,4 @@
 ^circle\.yml$
 ^packrat/
 ^\.Rprofile$
+^data/
