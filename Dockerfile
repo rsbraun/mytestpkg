@@ -13,9 +13,5 @@ RUN . /etc/environment \
 
 && R -e "options(repos='https://mran.microsoft.com/snapshot/2017-07-20'); devtools::install('/mytestpkg', dep = TRUE)" \
 
-# build this compendium package
-&& R -e "devtools::install('/mytestpkg', dep=TRUE)" \
-
-
   # knitting  the manuscript
 && R -e "rmarkdown::render('/mytestpkg/analysis/test_pkg.Rmd')"
