@@ -12,5 +12,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat
-Imports: raster, binford
+Imports: dplyr, magrittr,spatstat, sp, raster, rgdal, rmarkdown, knitr, bookdown, readr, binford
 RoxygenNote: 6.0.1

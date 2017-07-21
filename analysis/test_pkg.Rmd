@@ -86,4 +86,104 @@ data(LRB)
 knitr::kable(head(LRB))
 ```
 
+# Point Pattern
+```{r}
+harran <- read.table("../mytestpkg/data/ReReLA/data/Sites_HarranPlain.csv", sep=",", header=TRUE)
+head(harran)
+## Create Spatial Object 
+##--------------------------
+library(sp)
+coordinates(harran) <- ~X+Y
+proj4string(harran) <- CRS("+init=epsg:4326")
+harran <- spTransform(harran, CRSobj = CRS("+init=epsg:32637"))
+
+## Create Point pattern object
+##------------------------------
+library(spatstat)
+harran_ppp <- ppp(x = harran@coords[,1],
+                  y = harran@coords[,2],
+                  window = owin(xrange = harran@bbox[1,],
+                                yrange = c(min(harran@bbox[2,]), min(harran@coords[,2]+52000)))
+                  )
+# remove duplicated points
+str(harran_ppp)
+harran_ppp2 <- harran_ppp[!duplicated(harran_ppp)]
+str(harran_ppp2)
+plot(harran_ppp2)
+
+# or:
+anyDuplicated(harran_ppp)
+harran_ppp3 <- unique(harran_ppp)
+
+harran_ppp_nn <- nndist(harran_ppp2)
+str(harran_ppp_nn)
+hist(harran_ppp_nn)
+
+## Kernel Density Estimation
+##-----------------------------
+kde <- density.ppp(x=harran_ppp2, sigma = mean(harran_ppp_nn))   
+plot(kde)
+
+# use another bandwidth (sigma)
+# for clustered data use diggle
+bw.ppl(harran_ppp2)
+bw.diggle(harran_ppp2)
+plot(bw.ppl(harran_ppp2))
+plot(bw.ppl(harran_ppp2), xlim=c(2000,5000))
+
+## Add a Covariate
+##---------------------------
+# load raster
+library(raster)
+dem <- raster("./data/ReReLA/data/dem_harran.tif")
+
+# convert raster to pixel image
+t <- as(dem, "SpatialGridDataFrame")
+im.dem <- as.im(as.image.SpatialGridDataFrame(as(dem, "SpatialGridDataFrame")))
+harran_rhohat <-rhohat(object = harran_ppp2, covariate = im.dem, bw = mean(harran_ppp_nn))     # window of points matters
+plot(harran_rhohat)   # y-axis: intensity of points
+# check bandwidth (sigma):
+str(harran_rhohat)
+# Predict
+rho_dem <- predict(harran_rhohat)
+plot(rho_dem)
+# Compare raster with real data with predicted raster
+diff_rho <- kde - rho_dem
+plot(raster(diff_rho))
+
+## Test against random poisson process
+## -------------------------------------
+# create random points with the same density like the real points
+# compute density - Points per area
+dens1 <- harran_ppp2$n/area.owin(harran_ppp2$window)
+#set.seed(123)
+harran_poispp1 <- rpoispp(lambda = dens, win = harran_ppp2$window)   # poisson - complete spatial randomness 
+
+## or
+dens2 <- intensity(harran)
+#set.seed(123)
+harran_poispp2 <- rpoispp(lambda = dens, win = harran_ppp2$window)
+
+## or:
+#set.seed(123)
+harran_poispp3 <- (ex = harran_ppp)
+
+plot(harran_ppp2)
+points(harran_poispp1, col="red")
+points(harran_poispp2, col="blue")
+points(harran_poispp3, col="green")
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
 
