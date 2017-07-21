@@ -88,7 +88,7 @@ knitr::kable(head(LRB))
 
 # Point Pattern
 ```{r}
-harran <- read.table("../mytestpkg/data/ReReLA/data/Sites_HarranPlain.csv", sep=",", header=TRUE)
+harran <- read.table("../data/ReReLA/data/Sites_HarranPlain.csv", sep=",", header=TRUE)
 head(harran)
 ## Create Spatial Object 
 ##--------------------------
@@ -174,9 +174,36 @@ points(harran_poispp2, col="blue")
 points(harran_poispp3, col="green")
 
 ## Second order effects
-
+# G-Function
 harran_g <- Gest(harran_ppp2)
 str(harran_g)
+plot(harran_g)
+ # generate 99 random points and run G-Function 
+harran_ge <- envelope(harran_ppp2, fun="Gest")
+plot(harran_ge)
+# greyish curve - result of all 99 cases - becomes wider with more simulations
+harran_ge1000 <- envelope(harran_ppp2, fun="Gest", nsim=1000)
+plot(harran_ge500)
+
+# F-Function
+harran_f <- Fest(harran_ppp2)
+str(harran_f)
+plot(harran_f)
+
+harran_fe1000 <- envelope(harran_ppp2, fun="Fest", nsim=1000)
+plot(harran_fe1000)
+
+# K-Function
+harran_k <- Kest(harran_ppp2)
+str(harran_k)
+plot(harran_k)
+
+harran_ke1000 <- envelope(harran_ppp2, fun="Kest", nsim=1000)
+plot(harran_ke1000)
+
+Ginhom()
+Finhom()
+Kinhom()
 
 ```
 
