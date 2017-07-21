@@ -88,6 +88,10 @@ knitr::kable(head(LRB))
 
 # Point Pattern
 ```{r}
+##------------------------
+## First Order effects
+##------------------------
+
 harran <- read.table("../data/ReReLA/data/Sites_HarranPlain.csv", sep=",", header=TRUE)
 head(harran)
 ## Create Spatial Object 
@@ -173,7 +177,9 @@ points(harran_poispp1, col="red")
 points(harran_poispp2, col="blue")
 points(harran_poispp3, col="green")
 
+##-------------------------
 ## Second order effects
+##------------------------
 # G-Function
 harran_g <- Gest(harran_ppp2)
 str(harran_g)
@@ -201,9 +207,15 @@ plot(harran_k)
 harran_ke1000 <- envelope(harran_ppp2, fun="Kest", nsim=1000)
 plot(harran_ke1000)
 
-Ginhom()
-Finhom()
-Kinhom()
+# Inhomogeneous G/F/K:
+harran_gi <- Ginhom(harran_ppp2, lambda=predict(harran_rhohat))
+par(mfrow=c(1,2))
+plot(harran_gi, xlim=c(0,500))
+plot(harran_g, xlim=c(0,500))
+
+
+#Finhom()
+#Kinhom()
 
 ```
 
