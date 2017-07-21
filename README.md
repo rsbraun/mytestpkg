@@ -3,7 +3,7 @@
 mytestpkg
 =========
 
-[![Travis-CI Build Status](https://travis-ci.org/rsbraun/mytestpkg.svg?branch=master)](https://travis-ci.org/rsbraun/mytestpkg)
+[![Travis-CI Build Status](https://travis-ci.org/rsbraun/mytestpkg.svg?branch=master)](https://travis-ci.org/rsbraun/mytestpkg) [![Circle CI](https://circleci.com/gh/rsbraun/mytestpkg.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/rsbraun/mytestpkg)
 
 The goal of mytestpkg is to ...
 
