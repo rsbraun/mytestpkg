@@ -161,12 +161,12 @@ plot(raster(diff_rho))
 # compute density - Points per area
 dens1 <- harran_ppp2$n/area.owin(harran_ppp2$window)
 #set.seed(123)
-harran_poispp1 <- rpoispp(lambda = dens, win = harran_ppp2$window)   # poisson - complete spatial randomness 
+harran_poispp1 <- rpoispp(lambda = dens1, win = harran_ppp2$window)   # poisson - complete spatial randomness 
 
 ## or
 dens2 <- intensity(harran)
 #set.seed(123)
-harran_poispp2 <- rpoispp(lambda = dens, win = harran_ppp2$window)
+harran_poispp2 <- rpoispp(lambda = dens2, win = harran_ppp2$window)
 
 ## or:
 #set.seed(123)
