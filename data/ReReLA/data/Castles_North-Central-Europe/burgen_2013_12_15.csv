@@ -1,0 +1,684 @@
+OGC_FID,GEOMETRY,id,name,beschr,datierung,quelle,bz,ez,klassen,typ,lageq,zs1,zs2,zs3,zs4,bewertung,chronocode,texte,plan,ag,nuts3,nuts0,nr_ag,x,y
+0,,5,"Saal, Lkr. Vorpommern-Rügen (Mecklenburg-Vorpommern) ",,Jungbronzezeit,"Dräger 2014, Nr. 5",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,729696.977978,6019700.555540
+1,,6,"Stubnitz 3, Lkr. Vorpommern-Rügen (Mecklenburg-Vorpommern) ",,Jungbronzezeit,"Dräger 2014, Nr. 6
+",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,802545.923270,6051974.392274
+2,,4,"Willershusen, Lkr. Vorpommern-Rügen (Mecklenburg-Vorpommern)
+",,Jungbronzezeit,"Dräger  2014, Nr. 4",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,775429.209490,6004381.255827
+3,,58,"Lubin, pow. Kamieński (woj. Zachodniopomorskie)
+",,Ha C/D,"Dräger 2014, Nr. 58;  Wesolowski 1996; Koepke 1995, Nr. 36",0,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,858461.839978,5984215.119907
+4,,1,"Garz, Lkr. Vorpommern-Greifswald (Mecklenburg-Vorpommern)
+",,Früheisenzeit,"Dräger 2014, Nr. 1",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,842409.244239,5983561.415413
+5,,2,"Basedow, Lkr. Mecklenburgische Seenplatte
+(Mecklenburg-Vorpommern)
+",,Früheisenzeit,"Dräger 2014, Nr. 2",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,741646.511380,5955601.059940
+6,,3,"Kratzeburg, Lkr. Mecklenburgische Seenplatte
+(Mecklenburg-Vorpommern)
+",,Jungbronzezeit,"Dräger 2014, Nr. 3",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,762866.014775,5929490.438018
+7,,7,"Gühlen-Glienicke, Lkr. Ostprignitz-Ruppin (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 7",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,758498.115637,5880385.266071
+8,,59,"Swobnica, pow. Gryfiński (woj. Zachodniopomorskie)
+",,Jungbronzezeit,"Dräger 2014, Nr. 59; Koepke 1995, Nr. 65",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,881070.863347,5924362.105605
+9,,57,"Kamieniec, pow. Policki (woj. Zachodniopomorskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 57; Koepke 1995, Nr. 24",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,846996.878065,5903948.399485
+10,,56,"Cedynia, pow. Gryfiński (woj. Zachodniopomorskie)
+",,Ha C/D,"Dräger 2014, Nr. 56; Wesolowski 1996; Koepke 1995, Nr. 9",0,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,851893.902020,5870677.997326
+11,,60,"Myślibórz, pow. Myślibórz (woj. Zachodniopomorskie)
+",,Ha C/D,"Dräger 2014, Nr. 60; Wesolowski 1996; Prahistoria ziem polskich IV, Nr. 183",0,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,912187.972391,5871516.352619
+12,,8,"Görne, Lkr. Havelland (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 8",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,733451.061133,5844642.902117
+13,,9,"Potsdam-Sacrow (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 9; Koepke 1995, Nr. 56",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,781895.206028,5826952.571956
+14,,11,"Schlalach, Lkr. Potsdam-Mittelmark (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 11",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,760304.450414,5791504.812237
+15,,10,"Belzig, Lkr. Potsdam-Mittelmark (Brandenburg)
+",,Früheisenzeit,"Dräger 2014, Nr. 10; Koepke 1995, Nr. 3",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,728803.370120,5782584.265789
+16,,12,"Krakau, Lkr. Wittenberg (Sachsen-Anhalt)
+",,Früheisenzeit,"Dräger 2014, Nr. 12; Koepke 1995, Nr. 30",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,720149.931635,5760145.125094
+17,,53,"Lebus, Lkr. Märkisch-Oderland (Brandenburg)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 53; Koepke 1995, Nr. 33",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,876236.447338,5822885.195718
+18,,52,"Lossow, OT Frankfurt an der Oder (Brandenburg)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 52; Koepke 1995, Nr. 34",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,879784.742964,5807652.015342
+19,,13,"Dingelstedt, Lkr. Harz (Sachsen-Anhalt)
+",,Früheisenzeit,"Dräger 2014, Nr. 13; Koepke 1995, Nr. 55",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,633935.135876,5759338.327740
+20,,14,"Queste, Lkr. Mansfeld-Südharz (Sachsen-Anhalt)
+",,Jungbronzezeit,"Dräger 2014, Nr. 14",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,608318.354467,5723606.751460
+21,,15,"Arnsberg, Lkr, Mansfeld-Südharz (Sachsen-Anhalt)
+",,Jungbronzezeit,"Dräger 2014, Nr. 15; Koepke 1995, Nr. 54",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,618688.973796,5725160.782324
+22,,16,"Kyffhäuser, Kyffhäuserkreis (Thüringen)
+",,Früheisenzeit,"Dräger 2014, Nr. 16; Koepke 1995, Nr. 32",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,623137.967884,5713627.723094
+23,,17,"Kohnstein, Lkr. Nordhausen (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 17
+",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,631540.852813,5670918.598521
+24,,18,"Sachsenburg, Lkr. Kyffhäuserkreis (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 18",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,649393.498639,5675179.417707
+25,,19,"Großer und Kleiner Gleichberg bei Römhild, Lkr. Hildburg-
+hausen (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 19; Koepke 1995, Nr. 26",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,0,,,0,607005.912712,5594036.824274
+26,,20,"Oberpreilipp, Lkr. Saalfeld-Rudolstadt (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 20; Koepke 1995, Nr. 43",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,672580.135357,5614054.226504
+27,,22,"Kahla-Löbschütz, Saale-Holzland-Kreis (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 22",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,674458.443756,5625410.582531
+28,,21,"Öpitz, Saale-Orla-Kreis (Thüringen)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 21; Peschel 1999, Nr. 23",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,687387.113385,5612987.690336
+29,,24,"Jena-Lobeda (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 24; Peschel 1999, Nr. 19; Koepke 1995, Nr. 21",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,686025.977134,5634516.589968
+30,,25,"Jenzig bei Jena (Thüringen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 25; Peschel 1999, Nr. 16; Koepke 1995, Nr. 22",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,686697.961347,5640123.495259
+31,,23,"Pöhl, Lkr. Vogtlandkreis (Sachsen)
+",,"Früheisenzeit; Ha A2/B1, Ha C1, Ha D3/Lt A","Dräger 2014, Nr. 23; Jockenhövel u. Simon 1999, Nr. 12",0,3,Lausitzer Burg,,1,0.000000,3.000000,3.000000,0.000000,3,0,,,1,,,1,725921.376779,5607687.546737
+32,,113,"Okrouhlé Hradiště, okr. Tachov (Plzeňský kraj)
+",,Jungbronzezeit,"Dräger 2014, Nr. 113",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,0,,,0,760937.444495,5560956.344881
+34,,62,"Krosno Odrzańskie, pow. Krośnieński (woj. Lubuskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 62; Koepke 1995, Nr. 31",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,916281.261112,5780232.193084
+36,,54,"Burg, Lkr. Spree-Neiße (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 54; Koepke 1995, Nr. 8",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,859050.051367,5759353.930605
+37,,55,"Lübbenau, Lkr. Oberspreewald-Lausitz (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 55; Koepke 1995, Nr. 35",3,0,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,850514.622546,5760753.544256
+38,,31,"Zützen, Lkr. Dahme-Spreewald (Brandenburg)
+",,Früheisenzeit,"Dräger 2014, Nr. 31; Koepke 1995, Nr. 70",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,808198.924243,5771984.791056
+39,,32,"Goßmar, Lkr. Dahme-Spreewald (Brandenburg)
+",,Früheisenzeit,"Dräger 2014, Nr. 32; Koepke 1995, Nr. 16",0,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,809644.528796,5762987.107250
+40,,33,"Schlieben-Malitzschkendorf, Lkr. Elbe-Elster (Brandenburg)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 33",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,795650.663758,5754116.761023
+41,,29,"Gerbisbach, Lkr. Wittenberg (Sachsen-Anhalt)
+",,Jungbronzezeit,"Dräger 2014, Nr. 29; Koepke 1995, Nr. 15",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,773359.296934,5743863.226800
+42,,34,"Schönewalde, Lkr. Elbe-Elster (Brandenburg)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 34; Koepke 1995, Nr. 58",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,799995.374666,5743956.810679
+43,,30,"Falkenberg, Lkr. Elbe-Elster (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 30; Koepke 1995, Nr. 13",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,788836.063151,5726208.561244
+44,,26,"Hohburg, Lkr. Leipzig (Sachsen)
+",,Früheisenzeit; ältere Latènezeit; 360+−50 BC,"Dräger 2014, Nr. 26; Jockenhövel u. Simon 1999, Nr. 9",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,765383.260491,5706064.324144
+45,,35,"Oschätzchen, Lkr. Elbe-Elster (Brandenburg)
+",,Jungbronzezeit,"Dräger 2014, Nr. 35; Koepke 1995, Nr. 29",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,802871.408983,5717546.233868
+46,,48,"Senftenberg, Lkr. Oberspreewald-Lausitz (Brandenburg)
+",,Früheisenzeit,"Dräger 2014, Nr. 48; Koepke 1995, Nr. 61",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,855641.465387,5715570.708201
+47,,36,"Seußlitz, Lkr. Meißen (Sachsen)
+",,"Jungbronzezeit; Ha A1-Ha B1, HaD2/3-LtA, SLT?","Dräger 2014, Nr. 36/44; Jockenhövel u. Simon 1999, Nr. 6",3,2,Lausitzer Burg,,1,0.000000,3.000000,2.000000,1.000000,3,0,,,1,,,1,810073.774206,5687192.098575
+48,,37,"Sörnewitz, Lkr. Meißen (Sachsen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 37",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,815651.936023,5681426.671916
+49,,38,"Diesbar (Löbsal, Lkr. Meißen (Sachsen)
+",,"Früheisenzeit, Bz A2, ha A-Ha D/Lt A, bes. Ha B-Ha C","Dräger 2014, Nr. 38; Jockenhövel u. Simon 1999, Nr. 5; Koepke 1995, Nr. 10",3,3,Lausitzer Burg,,1,3.000000,3.000000,3.000000,0.000000,3,0,,,1,,,1,810348.251541,5684263.112294
+50,,28,"Göhrisch, Lkr. Sächsische Schweiz-Osterzgebirge (Sachsen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 28",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,802587.500522,5678253.954557
+51,,27,"Westewitz, Lkr. Mittelsachsen (Sachsen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 27",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,786738.925581,5674854.244723
+52,,39,"Dresden-Coschütz (Sachsen), Heidenschanze",,Jungbronzezeit; Mittelbronzezeit bis Ha D-Lt A,"Dräger 2014, Nr. 39; Jockenhövel u. Simon 1999, Nr. 3; Koepke 1995, Nr. 11,",3,3,Lausitzer Burg,,1,2.000000,3.000000,3.000000,0.000000,3,0,,,1,,,1,830542.190699,5660396.143434
+53,,40,"Seifersdorf, Lkr. Bautzen (Sachsen)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 40; Koepke 1995, Nr. 60",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,849666.933415,5677195.078522
+55,,45,"Ostro, Lkr. Bautzen (Sachsen)",,"Früheisenzeit, Ende Lausitzer Kultur","Dräger 2014, Nr. 45; Koepke 1995, Nr. 46",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,870245.876713,5691509.023220
+56,,46,"Biehla, Lkr. Lkr. Bautzen (Sachsen)
+",Sumpfringwall,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 46; Koepke 1995, Nr. 4",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,859516.518188,5702557.866696
+57,,65,"Wicina, pow. Żarski (woj. Lubuskie)
+",,Jungbronzezeit,"Dräger 2014, Nr. 65; Koepke 1995, Nr. 67",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,908572.975128,5729047.787236
+58,,51,"Podrosche, Lkr. Görlitz (Sachsen)
+",,"Früheisenzeit, Ende Lausitzer Kultur/Billendorf","Dräger 2014, Nr. 51; Koepke 1995, Nr. 50",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,906061.570960,5716907.241524
+59,,50,"Nieder-Neundorf, Lkr. Görlitz (Sachsen)
+",,"Früheisenzeit, Ende Lausitzer Kultur / Billendorf","Dräger 2014, Nr. 50; Koepke 1995, Nr. 41",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,910110.388985,5701795.787774
+60,,49,"Biesnitz, Landeskrone, Lkr. Görlitz (Sachsen)
+",,Früheisenzeit,"Dräger 2014, Nr. 49; Koepke 1995, Nr. 18",0,3,Lausitzer Burg,,3,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,914147.473781,5680923.687045
+61,,43,"Löbau, Lkr. Görlitz (Sachsen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 43",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,898676.558264,5669973.678653
+62,,42,"Oybin, Lkr. Görlitz (Sachsen)
+",,"Jungbronzezeit, ab Per. V","Dräger 2014, Nr. 42; Koepke 1995, Nr. 47",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,897780.028900,5655160.677474
+63,,41,"Pfaffendorf, Lkr. Sächsische Schweiz-Osterzgebirge (Sachsen)
+",,Jungbronzezeit,"Dräger 2014, Nr. 41",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,855898.424763,5650725.617977
+64,,112,"Velké Žernoseky, okr. Litoměřice (Ústecký kraj)
+",,Jungbronzezeit,"Dräger 2014, Nr. 112",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,862725.837180,5611608.576468
+65,,109,"Mužsky-Hrada/ Mnichovo Hradiště, okr. Mladá Boleslav
+(Středočeský kraj)
+",,Jungbronzezeit,"Dräger 2014, Nr. 109",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,898336.991504,5613795.215024
+66,,110,"Mladá Boleslav (Středočeský kraj)
+",,Jungbronzezeit,"Dräger 2014, Nr. 110",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,904989.273903,5600998.544592
+67,,111,"Pískové Lhotě, okr. Mladá Boleslav (Středočeský kraj)
+",,Früheisenzeit,"Dräger 2014, Nr. 111",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,896298.957046,5586959.863212
+68,,47,"Kleinsaubernitz, Lkr. Bautzen (Sachsen)
+",,"Jungbronzezeit, Ende Lausitzer Kultur","Dräger 2014, Nr. 47; Koepke 1995, Nr. 27",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,873570.918967,5702307.551058
+69,,63,"Pław, pow. Krośnieński (woj. Lubuskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 63; Koepke 1995, Nr. 49",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,931738.843686,5780108.351190
+70,,61,"Komorowo, pow. Szamotulskim (woj. Wielkopolskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 61; Harding 2004, Nr. 1; Malinowski 1954, Nr. 9",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1007144.539151,5845267.929138
+71,,82,"Słupca, pow. Słupecki (woj. Wielkopolskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 82; Harding 2004, Nr. 12; Malinowski 1954, Nr. 24",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1104814.777511,5831210.581428
+72,,67,"Przemęt, pow. Wolsztyński (woj. Wielkopolskie)
+",,Jungbronzezeit u. Früheisenzeit; Per. V-Ha,"Dräger 2014, Nr. 67; Malinowskii Nr. 19",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,996446.413444,5787578.458695
+73,,66,"Dalków, pow. Głogowski (woj. Dolnośląskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 66",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,992405.452452,5742977.731824
+74,,68,"Kędzie, pow. Trzebnicki (woj. Dolnośląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 68",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1027002.407319,5732476.899651
+75,,69,"Pudliszki, pow. Gostyński (woj. Wielkopolskie)
+",,Früheisenzeit; Per. IV-Ha D,"Dräger 2014, Nr. 69; Mallinowski Nr. 20",0,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,1055219.037497,5731286.002752
+76,,80,"Podzamcze, pow. Wieruszowski (woj. Łódzkie)
+",,Früheisenzeit,"Dräger 2014, Nr. 80",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1117101.703261,5739902.326363
+77,,81,"Grodzisko, pow. Jarociński (woj. Wielkopolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 81; Malinowski 1954, Nr. 5",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1063229.564184,5787493.306435
+78,,76,"Niemcza, pow. Dzierżoniowski (woj. Dolnośląskie)
+",,Jungbronzezeit u. Früheisenzeit; Per. V Ha B,"Dräger 2014, Nr. 76; Gediga1982",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,1040222.987208,5656945.200722
+79,,74,"Mierczyce, pow. Jaworski (woj. Dolnośląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 74",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1012933.299862,5689855.902636
+80,,72,"Krajewo, pow. Legnicki (woj. Dolnośląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 72",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1001250.284174,5695222.827735
+81,,71,"Kunice, pow. Legnicki (woj. Dolnośląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 71",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1014867.184680,5700555.704604
+82,,73,"Grzybiany, pow. Legnicki (woj. Dolnośląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 73",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1020909.854190,5695428.981909
+83,,75,"Strzegom, pow. Świdnicki (woj. Dolnośląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 75",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1022992.516062,5687165.932946
+84,,77,"Slęża, pow. Wrocławski (woj. Dolnośląskie)
+",,Jungbronzezeit,"Dräger 2014, Nr. 77",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,1,,,1,1045976.356438,5689751.436687
+85,,70,"Moczydlnica Klasztorna, pow. Wołowski (woj. Dolnośląskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 70",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,1024015.953205,5716420.729378
+86,,79,"Wrocław-Osobowice (woj. Dolnośląskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 79",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,1054900.524352,5709290.423878
+87,,78,"Wrocław-Osobowice (woj. Dolnośląskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 78",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,1060760.316908,5702764.696061
+88,,105,"Pomorzowice, pow. Głubczyce (woj. Opolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 105",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1114599.827415,5572270.384780
+89,,106,"Strzelniki, pow. Brzeski (woj. Opolskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 106",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,0,,,0,1122895.368240,5582789.074522
+90,,107,"Łubowice, pow. Racibórski (woj. Śląskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 107",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1155065.582729,5567796.449189
+91,,108,"Strzelniki, pow. Brzeski (woj. Opolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 108",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1125108.444211,5607591.408321
+92,,83,"Tarnowa, pow. Koniński (woj. Wielkopolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 83; Harding 2004, Nr. 13; Malinowski 1954, Nr. 29",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1092193.886005,5813529.734776
+93,,84,"Koziegłowy, pow. Koniński (woj. Wielkopolskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr.  84; Harding 2004, Nr. 1; Malinwoski 1954, Nr. 12; Prahistoria ziem polskich IV, Nr. 150",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1116669.617670,5843190.201761
+94,,85,"Smuszewo, pow. Wągrowiecki (woj. Wielkopolskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 85; Harding 2004, Nr. 3; Malinowski 1954, Nr. 25",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1064039.749003,5892097.435616
+95,,86,"Sobiejuchy, pow. Żninski (woj. Kujawsko-Pomorskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 86; Harding 2004, Nr. 4",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1084895.197648,5898384.273762
+96,,89,"Izdebno, pow. Żninski (woj. Kujawsko-Pomorskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 89; Harding 2004, Nr. 6; Malinowski 1954, Nr. 6",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1082163.273512,5876478.164296
+97,,87,"Biskupin, pow. Żninski (woj. Kujawsko-Pomorskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 90; Harding 2004, Nr. 5",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1088126.467838,5886313.537997
+98,,90,"Jankowo, pow. Inowrocławski (woj. Kujawsko-Pomorskie)
+",,"Früheisenzeit, Periode V / Ha C; Ha D","Dräger 2014, Nr. 90; Harding 2004, Nr. 7; Niesłowska-Wędzka, 1974, 179 Nr. 26, 189,85; Malinowski 1954, Nr. 7; Śmigielski 1991",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1110747.030086,5886833.607852
+99,,91,"Kruszwica, pow. Inowrocławski (woj. Kujawsko-Pomorskie)
+",,"Früheisenzeit, Periode V / Ha C","Dräger 2014, Nr. 91; Harding 2004, Nr. 8; Malinowski 1954",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,1129273.663845,5878083.787937
+100,,88,"Kołuda Wielka, pow. Inowrocławski (woj. Kujawsko-Pomorskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 88",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1111409.363335,5892795.001232
+101,,92,"Kamieniec, pow. Radziejowski (woj. Kujawsko-Pomorskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 92",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1119913.555784,5926894.408411
+102,,104,"Tyniec, pow. Krakowski (woj. Małopolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 104",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1253175.450270,5599671.254924
+103,,102,"Maszkowice, pow. Nowosądecki (woj. Małopolskie)
+",,Jungbronzezeit,"Dräger 2014, Nr. 102",3,0,Lausitzer Burg,,1,0.000000,3.000000,0.000000,0.000000,3,0,,,0,,,0,1343573.541601,5562582.157262
+104,,100,"Kurów, pow. Nowosądecki (woj. Małopolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 100",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1346134.208119,5583238.957075
+106,,101,"Marcinkowice, pow. Nowosądecki (woj. Małopolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 101",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1336610.069195,5578942.340910
+107,,103,"Zabrzeż, pow. Nowosądecki (woj. Małopolskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 103",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1327008.915585,5566885.042123
+108,,115,"Jantarnaja, Rajon Jantarny (Oblast Kaliningrad)
+",,Früheisenzeit,"Dräger 2014, Nr. 115",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1204660.699898,6136538.264530
+109,,114,"Mednicken, Rajon Selenogradsk (Oblast Kaliningrad)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 114",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,0,,,0,1220030.122166,6121667.947994
+110,,97,"Sztynort, pow. Węgorzewo (woj. Warmińsko-Mazurskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 97",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1304861.338057,6052868.784479
+111,,98,"Lipowo, pow. Nidzicki (woj. Warmińsko-Mazurskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 98",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,0,,,0,1294840.636419,6021703.252705
+112,,95,"Olsztyn-Hermanowo, woj. Warmińsko-Mazurskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 95",3,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,3,0,,,0,,,0,1230606.754913,6014812.208406
+113,,96,"Łęcze, pow. Elbląg (woj. Warmińsko-Mazurskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 96",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1177148.379599,6055311.367856
+114,,94,"Kretowiny, pow. Ostróda (woj. Warmińsko-Mazurskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 94",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1180373.757675,6017570.227822
+115,,93,"Starzykowo Małe, pow. Iława (woj. Warmińsko-Mazurskie)
+",,Früheisenzeit,"Dräger 2014, Nr. 93",0,3,Lausitzer Burg,,1,0.000000,0.000000,3.000000,0.000000,3,0,,,1,,,1,1165266.917259,5996572.418430
+116,,,Halle-Giebichenstein,"Höhensiedlung, keine Befestigungsspuren nach Peschel","Per IV-VI, Sha-FLT","Heske, Karte Watenstedt; Peschel 1999, Nr. 13",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,705851.015461,5707137.436680
+117,,,Bösenburg,,Per IV-VI; Spätbronzezeit und Späthallstattzeit,"Heske, Karte Watenstedt; Peschel 1999, Nr. 5",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,686572.078429,5717976.861579
+118,,,keine näheren Angaben,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,669052.484613,5733319.179122
+119,,,keine näheren Angaben,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,656398.120547,5736226.262759
+120,,,keine näheren Angaben,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,652294.002471,5736397.267679
+121,,,keine näheren Angaben,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,645453.805678,5740501.385755
+122,,,keine näheren Angaben,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,637245.569527,5739817.366075
+123,,,keine näheren Angaben,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,684186.420017,5681590.190877
+127,,,Bad Frankenhausen,,"Per IV-VI; Frühlatène, Späthallstatt","Heske, Karte Watenstedt; Peschel 1999 Nr. 2",3,0,,1,1,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,648959.406535,5699545.707458
+129,,,"Osterode am Harz, Pipinsburg",mehrteilige Abschnittsbefestigung,"; HaD/FLT, LtB2-Ltc, Ma","Heske, Karte Watenstedt; Heine 1999; Peschel 1999, Nr. 25",3,3,,,3,0.000000,1.000000,3.000000,0.000000,3,0,,,1,,,1,583859.873523,5733038.938276
+130,,,Hünenburg bei Watenstedt,,Per IV-VI,"Heske, Karte Watenstedt",3,0,,1,3,0.000000,3.000000,1.000000,0.000000,3,0,,,1,,,1,626536.836522,5772427.134891
+131,,,"Stubnitz 1, Lkr. Vorpommern-Rügen (Mecklenburg-Vorpommern)
+",,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,800691.256719,6052557.120561
+132,,,Ralswiek,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,3,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,790757.900185,6046403.713859
+133,,,"Granitz, Rügen",,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,803064.713590,6038140.567716
+134,,,"Ketelshagen, Rügen",,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,788384.443314,6033393.653974
+135,,,Katzow,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,802713.090350,5996912.742810
+136,,,Schlemmin,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,738190.225785,6014142.281577
+137,,,Schlemmin Forst,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,686237.892056,5972035.398571
+138,,,Klein Luckow,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,729487.550592,5953399.366844
+139,,,Karow,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,715950.055847,5940213.495339
+140,,,Burg Stargard,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,785747.269013,5935290.769977
+141,,,Klempenow,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,783637.529572,5969574.035890
+142,,,Wittenborn,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,809481.837722,5949531.511203
+143,,,Rothemühle Forst,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,817920.795485,5945136.220701
+144,,,Fahrenwalde,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,838314.943413,5934235.900257
+145,,,Eggesin,,"vermutete jungbronze-/früheisenzeitlichen Wallanlage
+",Dräger 2014,2,1,Ringwall,,2,0.000000,2.000000,2.000000,0.000000,3,0,,,1,,,1,844995.784975,5955333.294665
+146,,,Amelungsburg bei langenfeld,,Latène; 300-100 v. Chr.,Heine 2000; Cosack 2008,0,2,,,2,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,518359.438016,5783723.636967
+147,,,Hünenburg bei Langenfeld,,Datierung zweifelhaft,Heine 2000; Cosack 2008,0,2,,,2,0.000000,1.000000,1.000000,1.000000,3,,,,1,,,1,517223.773422,5784220.261076
+148,,,Schulenburg auf dem Marienberg,,Eisenzeit,Heine 2000; Cosack 2008,0,2,,,3,0.000000,2.000000,2.000000,1.000000,3,,,,1,,,1,552427.691715,5780506.589013
+149,,,Barenburg bei Wülfinghausen,"mehrphasige Abschnittsbefestigung, 5,5 ha","ältere Eisenzeit, unbestimmt",Heine 1999; 2000; Cosack 2008,0,2,,,2,0.000000,1.000000,2.000000,0.000000,3,,,,1,,,1,544006.439809,5777118.497698
+150,,,Kukesburg bei Altenhagen,,Datierung zweifelhaft,Heine 2000; Cosack 2008,0,2,,,2,0.000000,1.000000,1.000000,1.000000,3,,,,1,,,1,536203.371338,5779149.637609
+151,,,Hirschkopf bei Springe,,Datierung zweifelhaft,Heine 2000; Cosack 2008,0,2,,,2,0.000000,1.000000,1.000000,1.000000,3,,,,1,,,1,537171.611935,5787733.434990
+152,,,Hohe Schanze bei Winzenburg,"Spornberestigung, 5-6 ha",Datierung zweifelhaft nach Cosack 2008; nach Heine 1997: mittlere und jüngere vorröm. EZ,Heine 1999; 2000; Cosack 2008,0,2,,,3,0.000000,0.000000,1.000000,1.000000,3,,,,1,,,1,565033.231712,5755080.366580
+153,,,Hünenburg bei Ammensen,,Eisenzeit,Heine 2000; Cosack 2008,0,2,,,2,0.000000,0.000000,2.000000,1.000000,3,,,,1,,,1,556534.952572,5751166.821265
+154,,,"Bovenden, Plesse","Kulturschicht der älteren Eisenzeit, möglicherweise Befestigung zerstört",ältere Eisenzeit,Heine 1999,0,0,,,2,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,566931.984880,5716740.941811
+155,,,"Bühle, Alte Burg",Kuppe mit schwachen Befestigungsresten und Keramik der älteren Eisenzeit,ältere Eisenzeit,Heine 1999,0,3,,,2,0.000000,0.000000,2.000000,0.000000,3,,,,1,,,1,568569.415111,5723153.988682
+156,,,"Einbeck-Negenborn, Burgberg","Spornbefestigung, in der Nähe eisenzeitliche Siedlung",BZ/LtA-D,Heine 1999,2,3,,,3,0.000000,2.000000,3.000000,3.000000,3,,,,1,,,1,563502.130498,5742618.483375
+157,,,"Klein Lengden, Lengderburg",zwei Abschnittswälle mit Schwerbenkonzentration,SHA-FLT,"Heine 1999; Peschel 1999, Nr. 17",0,3,,,2,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,571388.601647,5707299.157920
+158,,,"Nörten, Rammelsberg im Leinetal","steinerner Ringwall, 150*180 m, Scherben",BZ/vorrömische Eisenzeit,Heine 1999,2,0,,,2,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,563787.471006,5722270.347581
+159,,,"Pless-Forst, Bovenden, Hünstollen","dreifacher Abschnittswall, Keramik, Siedlungsspuren",HaD-LtB,Heine 1999,0,3,,,2,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,572859.021326,5714832.377536
+160,,,"Pless-Forst, Bovenden, Ratsburg",Spornbefestigung mit Vorwall,ältere Eisenzeit,"Heine 1999; Peschel 1999, Nr. 31",0,3,,,3,0.000000,1.000000,3.000000,0.000000,3,,,,1,,,1,568911.809800,5716872.429762
+161,,,"Pless-Forst, Bovenden, Wittenburg, Reyershausen",Spornbefestigung mit Abschnitgswall,SHA/FLT,"Heine 1999; Peschel 1999, Nr. 30",0,3,,,2,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,567732.286732,5717226.666810
+162,,,"Vogelbeck, Vogelsburg",wohl eisenzeitliche Befestigung mit Scherben,"SHA,/FLT, oder eher MLT/SLT","Heine 1999; Peschel 1999, Nr. 38",0,3,,,3,0.000000,1.000000,3.000000,3.000000,3,,,,1,,,1,565412.673950,5738239.213569
+163,,,"Schnippenburg, Ostercappeln",,Latène C,Heine 1999; Möllers xxx,0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,444346.428446,5800586.243004
+164,,,"Arkeburg, Gemeinde Goldenstedt",Doppelter Ringwall,EZ oder wohl doch MA?,Heine 1999,0,0,,,3,0.000000,0.000000,1.000000,1.000000,3,,,,1,,,1,458556.919013,5845681.134886
+165,,,Brunkelburg im Elm bei Reitling (Kuxwall),Ringwall mit Bronzering der älteren vorrömischen Eisenzeit,ältere vorrömische EZ,Heine 1999,0,3,,,3,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,619408.536288,5784957.935898
+166,,,Krimmelburg im Elm bei Reitling,"Ringwall mit Keramik der vorrömischen Eisenzeit, die parallelen Wendehaiwälle in der Nähe scheinen ebenfalls Latènezeitlich zu sein",vorrömische EZ,Heine 1999,0,3,,,3,0.000000,1.000000,3.000000,1.000000,3,,,,1,,,1,619844.808820,5786145.423262
+167,,,Burgberg bei Detfurth,,Eisenezeit,Heine 1999,0,3,,,3,0.000000,0.000000,2.000000,0.000000,3,,,,1,,,1,569172.657776,5769324.406593
+168,,,"Frickenberg, Langelsheim",,BZ?,Heine 1999,2,0,,1,3,2.000000,2.000000,0.000000,0.000000,3,,,0,1,,,1,589548.392056,5753967.097175
+169,,,"Hedemünde, Burgberg",,,Heine 1999,2,0,,1,3,0.000000,2.000000,2.000000,0.000000,3,,,0,1,,,1,551405.523456,5694125.478481
+170,,,"Schwedenschanze, Isingerode",,Bz,Heine 1999; xxx,3,0,,1,3,2.000000,2.000000,0.000000,0.000000,3,,,,1,,,1,608193.879802,5764215.629431
+171,,,Wittekindsburg bei Bramsche,,ez,Heine 1999,0,3,,,3,0.000000,0.000000,2.000000,1.000000,3,,,,1,,,1,426327.608414,5810705.759756
+172,,,"Heidenschanze, Sievern",Ringwall,"Bei Heine EZ, aber wohl doch nicht vorrömische EZ",Heine 1999; Martens 2007,0,1,,,3,0.000000,0.000000,0.000000,0.000000,1,,,,1,,,1,475128.176112,5945258.404146
+173,,,Heidenstadt,Ringwall,"Nach Heine EZ, aber wohl doch nicht vorrömische EZ",Heine 1999,0,1,,,3,0.000000,0.000000,0.000000,0.000000,1,,,,1,,,1,475471.514850,5945903.777714
+174,,,"Cuxhaven, Duhnen, Am Kirchhof",Ringwall,"Übergang ältere-mittlere BZ und Per. III, es liegen zahlreiche Radiokarbondaten vor",Veit u. Wendowski-Schünemann 2006; Wendowski-Schünemann u. Veit 2013,3,0,,1,3,3.000000,2.000000,0.000000,0.000000,3,,,,1,,,1,475029.433956,5969711.608628
+175,,,"Ahlerstedt, Oersdorf, Wallanlage",Ringwall,BZ/EZ,Noesler u. a. 2013,3,3,,,3,0.000000,2.000000,1.000000,1.000000,3,,,,1,,,1,525079.444881,5916315.335754
+176,,,"Wittorf, Befestigung",Wallanlage,"ez, 5. Jahrhunderts v. Chr.
+; ","S. Hesse u. K. P. Hofmann, Der mehrperiodige Fundplatz Wittorf, StadtVisselhövede, Arch. Ber. Landkr. Rotenburg (Wümme) 13, 2006 ;S. Hesse 2010: Die eisenzeitliche Befestigung von Wittorf, Lkr. Rotenburg (Wümme). In: M. Meyer (Hrsg.): Haus - Gehöft - Weiler - Dorf. Siedlungen der vorrömischen Eisenzeit im nördlichen Mitteleuropa. Internationale Tagung an der FU Berlin . Berliner arch. Forsch. 8. Rahden, Westf. 2010, 327–341; Martens 2007.",0,3,Siedlungseinhegung mit Wall,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,535552.596004,5873866.756100
+177,,,Ringwall im Riesewohld,Ringwall,kurz vor oder um Christie Geburt,"V. Arnold, Schleswig-Holstein neu entdeckt (Heide 2012).",0,3,,,3,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,514725.131371,6000456.377619
+178,,,Borremose,Ringwall,"mittlere vorrömische EZ, Jastorf b, Hingst IC; späte vorrömische EZ, Ripdorf, Hingst Id/IIa; 410-40 BC",xxxxx; Martens 2007,0,3,befestigte Siedlung Typ Borremose,,3,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,534701.239741,6293069.054164
+179,,,Lyngmose,Ringwall vom Borremose Typ,"jüngere vorrömische Eisenzeit, Becker IIIa",Eriksen u. Rindel 2003; Martens 2007,0,3,befestigte Siedlung Typ Borremose,,3,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,460961.369996,6221143.176048
+180,,,"Borrebjerg, Sejerø",Graben am Fuß eines Hügels,"ältere vorrömische EZ, Becker IA, IIIa, Rörby phase, 425 BP",Liversage 1982; Martens 2007,0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,633667.624342,6195437.561153
+181,,,Petersborg,Halbkreiswall,"Frühe EZ, Laut Liebgott keine Funde vor dem 12. Jh.; nach Christensen hingegen gibt es ein Radiokarbondatum von 600  BC",Liebgott 1977; Christensen 2011,0,2,Ringwall,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,661639.833595,6148025.276982
+182,,,Gudsø Vig IV,"Seesperre aus senkrechten Pfählen (5-15 cm) in 5-7  m Abstand. Funktion als Seesperre nicht ganz gesichert, eine Funktion als Fischzaun ist in der Diskussion.","vorrömische Eisenzeit, Radiokarbondaten: 170 BC, AD 30-50, 30-10 BC, 60BC-AD 60, 1260+-75[AD646-902] (K-5054,5055,5056,4486)",Nørgård Jørgensen 2009,0,3,Seesperre,,2,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,538097.102968,6152285.256929
+183,,,Olgerdiget,Landwehr,"Errichtung um 50 u.Z.,
+Zweite Bauphase um 70 u.Z.,
+Dritte Bauphase um 90 u.Z.","P. Ethelberg, in: S. Burmeister - H. Derks, 2000 Jahre Varusschlacht. Konflikt (Stuttgart 2009) 170–182; Neumann, H.: Olgerdiget, Museumsrådet for Sønderjyllands Amt, Haderslev, 1982 ",0,2,Landwehr,,2,0.000000,0.000000,0.000000,0.000000,0,,,,1,,,0,518025.031361,6088657.334203
+184,,,Eskilstuna,Fornborg 75*70 m,"vorrömische EZ, 147calBC-232calAD(520±50BP,540±BP,925±BP,1950±BP), 2060 BP (ST 13088, 353-80 calBC)","RAÄ Eskilstuna 532:1, Damel u. Lorin 2008; Fornvännen 94, 1999, 105-106.",0,3,,,1,0.000000,0.000000,2.000000,3.000000,3,,,,1,,,1,925769.143440,6601965.127673
+185,,,Ripsa,Fornborg 300*250 m,"BZ u. EZ, 351calBC-115calAD (2050±70BP.795±80BP); weitere Radiokarbondaten aus BZ und mittlerer EZ","RAÄ Ripsa 55:1, Damell u. Lorin 2008",3,3,,,3,0.000000,2.000000,2.000000,3.000000,3,,,,1,,,1,953238.642297,6561573.019750
+186,,,Säve,Fornborg 200*130 m,Ältere Eisenzeit und WZ,RAÄ Säve 134:1; Hall 2008,0,3,,,3,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,675757.661139,6411875.735498
+187,,,Wallanlage Skälby bei Västerås,Wallanlage,500 v. Chr. bis 200 n. Chr. nach einem nahe gelegenen Gräberfeld,Tervalampi 2004 (Växpressen 8. Januar 2004),0,3,,,2,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,911044.558615,6630035.096437
+188,,,"Virkelsborg, Västerbitterna 34:1",Fornborg 45*35 m,"Keramik der Eisenzeit, Radiokarbondatum des Walls der älteren Bronzezeit 1400-1200 BC und von Holzkohle der jüngere BZ 700-500",RAÄ Västerbitterna 34:1; Sjöllin 2011,3,2,,,3,3.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,730862.161059,6450071.586411
+189,,,Köping,Fornborg 85 m Durchmesser,"Kulturschicht der älteren Kaiserzeit; Radiokarbondaten 360BC-537AD (110±90 BC, 105±90BC, 80±90BC,180±100AD,220±100AD.)",RAÄ Köping 111:1,0,3,,,3,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,972301.952999,6333748.085231
+190,,,Tofta,Fornborg 135*40 m. Bei einer Nachuntersuchung im Inneren der Wallanlage wurde neben Keramik und Knochen eine Bronzenadel gefunden.,Die Brondzenadel wird in die Zeit 500-400 BC datiert.,RAÄ Tofta 85:1,0,2,,,3,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,1044728.064425,6413910.777429
+191,,,Odensala Prästgård RAÄ235,"Burial Enclosure, umwalltes Gräberfeld","Lum: ~1500 BC, 700-200BC, Radiokarbon: 1300-100BC",Olausson 1995,3,3,Grabeinhegung,,3,3.000000,3.000000,3.000000,0.000000,3,,,,1,,,1,997348.727262,6648315.238014
+192,,,"Veda, Angarns socken, RAÄ 111",Hillfort/Fornborgar,"Lum: 600BC-400AD, Radiokarbon: 800BC-450BC und 100AD-500AD",Olausson 1995; Martens 2007,2,3,Höhenburg,,3,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,1017180.701801,6632519.917967
+193,,,"Sjöberg, Sollentuna socken RAÄ 84",Hillfort,Radiokarbon: 800-200BC und 300-500AD,Olausson 1995,2,3,Höhenburg,,3,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,1009478.809727,6621619.408954
+194,,,"Predikstolen, Uppsala-Näs socken, RAÄ133",Hillfort,"Lum: 1500-1200 BC, Radiokarbon: 1400-800BC",Olausson 1995,3,0,Höhenburg,,3,3.000000,3.000000,0.000000,0.000000,3,,,,1,,,1,981385.038920,6661453.488516
+195,,,Olausson 1995; Martens 2007,Enclosure A,"Lum: 500-150BC, Radiokarbon: 400BC-200BC",Olausson 1995; Martens 2007; RAÄ231,0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,1015775.523644,6636024.574791
+196,,,"Lingsberg, „Fjället“, RAÄ265, Vallentuna socken",Enclosure B,"Lum: 300BC-300AD, Radiokarbon: 300BC-100AD",Olausson 1995; Martens 2007,0,3,,,3,0.000000,0.000000,2.000000,3.000000,3,,,,1,,,1,1014830.954933,6636801.526925
+197,,,"Ekhagen RAÄ7, Lund socken",Enclosure A,"Lum: 130-150 BC, Radiokarbon: 362BC-53AD",Olausson 1995; Martens 2007,0,3,,,3,0.000000,0.000000,2.000000,3.000000,3,,,,1,,,1,1007735.843819,6650019.326509
+198,,,"Rävsta, Angarns socken",Burial Enclosure,"Lum: 0-300AD, Radiokarbon: 200BC-100AD",Olausson 1995,0,3,Grabeinhegung,,3,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,1016759.038560,6634325.484987
+199,,,"Runsa, Eds socken, RAÄ2",Hillfort,"Lum: 300-500AD, Radiokarbon: 300-500AD und 800-200BC. Nach Olausson xxxx wurde die Anlage in der RKZ gebaut.",Olausson 1995; Olausson xxxxx,0,3,Höhenburg,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,997877.031143,6636308.783487
+200,,,"Tunberget, Sollentuna",Fornborg,Radiokarbon: 100BC-200AD,Olausson 1995,0,1,,,3,0.000000,0.000000,0.000000,2.000000,2,,,,1,,,1,1006390.474293,6624193.309393
+201,,,"Helgö, Ekerö socken, RAÄ119",Enclosure A,Radiokarbon 100BC-150AD,Olausson 1995,0,2,,,3,0.000000,0.000000,0.000000,2.000000,2,,,,1,,,1,995128.119277,6602951.112672
+202,,,Havor,Fornborg,Späte vorrömische EZ ; Radiokarbon 555-138BC (2060±110; 2140±165),"Martens 2007; Sperling_Luik 2010, 146; Nylén et al 2005",0,3,,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,1060900.864155,6376926.320745
+203,,,Hällhage,Fornborg,"vorrömische EZ, unsichere Datierung",Martens 2007,0,2,,,3,0.000000,0.000000,2.000000,2.000000,1,,,,1,,,1,1063386.272902,6421044.482824
+204,,,Neu-Pansow,"Palisade, mind. 150 m lang.",vorrömische Eisenzeit,Martens 2007; Segschneider 2005,0,3,Siedlungseinhegung,,2,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,779656.621503,5995876.639572
+205,,,"Grøntoft, Siedlung",Siedlung mit Zaunpalisade,500-400BC,Martens 2007; Becker xxxx,0,3,Siedlungseinhegung,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,473545.355055,6225346.222583
+206,,,"Koprdalsåsen, Steinkjer",Hillfort,vorrömische Eisenzeit,Martens 2007,0,3,Höhenburg,,1,0.000000,0.000000,2.000000,2.000000,3,,,,0,,,0,623086.155703,7101115.313493
+207,,,"Tanemsåsen, Klæbu",Hilfort,"vorrömische Eisenzeit, RKZ, WZ",Martens 2007,0,1,Höhenburg,,1,0.000000,0.000000,2.000000,2.000000,3,,,,0,,,0,574723.549032,7019025.209876
+208,,,"Halsstein, Levanger",Hillfort,"Ende der BZ, Ende der Vorrömischen EZ, RKZ",Martens 2007,2,2,Höhenburg,,1,0.000000,2.000000,0.000000,2.000000,3,,,,0,,,0,614523.943339,7068891.718016
+209,,,"Scheverlingenburg von Walle, Ldkr Gifhorn","Abschnittswall, auf 50 m Länge und 8-10 m Höhe erhalten",6. Jh. BC,"Wallbrecht 2004: A. WAllbrecht, Nördlichste Burganlage der vorrömischen Eisenzeit. In: M. Fansa, F. both u. Henning Haßmann /Hrsg.) Archäologie Land Niedersachsen 318-320",0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,598551.435522,5799867.252924
+210,,,"Diedrichsburg in Oldendorf, Stadt Melle, Ldkr. Osnabrück (29)","Ringwall, Höhenburg","undatiert, Schlüter geht aufgrund des Umfeldes und der Form von einer möglichen eisenzeitlichen Datierung aus.","Schlüter 2000: W. Schlüter, Die Diedrichsburg in Oldendorf, Stadt Melle, Landkreis Osnabrück (29). In: W. Schlüter (Hrsg.), Burgen und Befestigungen. Schr. Arch. Osnabrücker Landes 2 (Bramsche 2000) 113-116.",0,1,Höhenburg,,3,0.000000,0.000000,1.000000,1.000000,1,,,,1,,,1,455670.411879,5786926.001746
+211,,,"Grøntoft, ""Palisade""","Grubenfeldbefestigung, Siedlungseinfriedung",vorrömische Eisenzeit,Martens 2007; Becker xxxx,0,2,Grubenfeldbefestigung Typ Grøntoft,,2,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,473544.677738,6225345.672325
+212,,,Hodde,umzaunte Siedlung der Eisenzeit,500 f.Kr. - 0 e.Kr.,Martens 2007,0,3,Siedlungseinhegung,,3,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,478335.814478,6172796.117295
+213,,,Nøvling plantage,Grubenfeldbefestigung,vorrömische Eisenzeit,Martens 2007,0,2,Grubenfeldbefestigung Typ Grøntoft,,2,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,489748.828904,6226213.091039
+214,,,Bjødstrup,Grubenfeldbefestigung,vorrömische Eisenzeit,Martens 2007,0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,506081.638377,6218725.496454
+215,,,Liseborg,Grubenfeldbefestigung,vorrömische Eisenzeit,Martens 2007,0,3,Grubenfeldbefestigung Typ Risum Østergård,,3,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,522552.291536,6254629.876423
+216,,,Ramme,Grubenfeldbefestigung,vorrömische Eisenzeit,Martens 2007,0,3,Grubenfeldbefestigung Typ Risum Østergård,,3,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,449301.435850,6261409.909365
+217,,,Lystbækgaard,"Grubenfeldbefestigung, Siedlungseinfriedung","vorrömische Eisenzeit, um 400 BC",Martens 2007,0,3,Grubenfeldbefestigung Typ Grøntoft,,3,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,461703.699916,6233264.478071
+218,,,"Engedal, Viborg",Grubenfeldbefestigung,vorrömische Eisenzeit,Martens 2009,0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,506553.338915,6253235.220209
+219,,,Ubby,"eisenzeitliche Siedlung, nach Luftbild von einem Graben umgeben.",späte vorrömische Eisenzeit,Martens 2007,0,3,umfriedete Siedlung,,3,0.000000,0.000000,0.000000,3.000000,2,,,,1,,,1,640243.211621,6165202.219839
+220,,,Kjelst/Tarp,Siedlung mit Graben ähnlich Borremose,zweite Hälfte der vorrömischen Eisenzeit,Martens 2009,0,3,befestigte Siedlung Typ Borremose,,2,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,456604.208016,6161571.709926
+221,,1,Babilonie,,"Keramik aus Ha D, Metall aus Lt B2-C, Keramik aus Lt D, Wall wahrscheinlich Lt B2-C; es liegen Radiokarbondaten vor",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,2.000000,3,,,,1,,,1,470609.450831,5790892.264028
+222,,2,Wittekindsburg,,"Keramik Lt B2-C, Burgwall Lt B2-C",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,492776.354523,5789613.404200
+223,,3,Nammer Lager,,"Keramik der Eisenzeit, vielleicht Lt D, Radiocarbon 44+-62calAD",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,0.000000,2.000000,2,,,,1,,,1,498318.080446,5786203.111324
+223,,4,Hünenburg bei Quelle,,"etwas Keramik in Lt A-B1, Keramik Lt B2-C, Burgwall Lt B2-C, RC 285+-67 cal BC",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,466559.728041,5761478.487975
+225,,6,Piepenkopf,,"Keramik Lt D, Burgwall Lt B2-C, RC 293+-64 cal BC",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,2.000000,3,,,,1,,,1,499170.653665,5763823.064327
+226,,5,Grotenburg,,"Metallfunde Lt B2-C, Burgwall Lt B2-C, RC 297+-64 cal BC",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,489898.919909,5746132.170034
+227,,8,Tönsberg,,"Metallfunde Lt D, Keramik Lt B2-D, Burgwall Lt B2-D, RC aq 75+-69 cal BC, 285+-67 cal BC, pq325+-68 cal BC",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,476470.891711,5755830.190400
+228,,7,Herlingsburg,,"Metallfunde der Eisenzeit, Keramik Lt D, Burgwall Lt B2-C, RC 234+-98 cal BC",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,2.000000,3,,,,1,,,1,513984.113343,5753379.042395
+229,,9,Rodenstatt,,"Burgwall Ha D, RC 546+-116 cal BC",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,513664.398386,5747304.458210
+230,,11,Brunsburg,,Metallfunde der Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,524960.993537,5733237.000098
+231,,10,Steinbreede,,Metallfunde der Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,528264.714760,5720128.686857
+232,,12,Hünenburg bei Gellinghausen,,"Keramik und Metallfunde Lt B2-C, Burgwall Lt B2-C Radiokarbondaten liegen vor",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,481266.616067,5720448.401814
+233,,13,Schafsköppen,,Keramik der Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,459419.427332,5703610.080741
+234,,15,Schiedlike Borg,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,441408.818082,5698281.498122
+235,,16,Eresburg,,"Wall Ha D, Radiokarbondaten liegen vor.",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,491284.351390,5701904.934303
+236,,17,Bruchhauser Stein,,"Keramik der Ha D-Lt B1, Metallfunde Lt B2-C, Wall Ha D und Lt B2-C, Radiokarbondaten liegen vor",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,467412.301260,5688476.906105
+236,,14,Stesser Burg,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,442581.106258,5693059.487156
+238,,18,Wilzenberg,,"Keramik der Eisenzeit und Metallfunde Lt D, Wall Lt D",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,450680.551838,5668654.578765
+239,,25,Burg von Wemlinghausen,,Metallfunde der Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,462829.720208,5663539.139451
+240,,22,Kahle,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,432883.085893,5668974.293722
+241,,20,Weilenscheid,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,430645.081194,5671745.156683
+242,,19,Burg Borghausen,,Metallfunde Lt B2-C,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,426169.071794,5671745.156683
+243,,21,Hühnengraben auf dem Hofkühlberg,,Keramik und Metallfunde der  Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,427980.789884,5666203.430760
+244,,23,Burg von Aue,,Keramik und Wall Lt A-B1,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,449614.835315,5658849.986747
+245,,24,Burg von Dotzlar,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,458353.710809,5655333.122219
+246,,29,Alte Burg von Obernau,,Keramik und Wall Lt D,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,436826.237031,5645954.816811
+247,,26,Alte Burg von Laasphe,,"Keramik, Metallfunde und Wall Lt D",Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,453984.273062,5641052.520802
+248,,27,Burg von Hesselbach,,Keramik der Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,457074.850980,5644889.100287
+249,,31,Bühl,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,425529.641880,5637961.942883
+250,,30,Hohenseelbachskopf,,Keramik der Eisenzeit,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,428620.219799,5626771.919385
+251,,28,Burg von Burbach,,keine Datierungshinweise angegeben,Sicherl 2007,0,3,Ringwall,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,433629.087460,5622509.053290
+252,,1,"Hofgeismar, Eberschützer Klippe",,Eisenzeit ?,Gensen 1999,0,2,,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,526133.281713,5709258.378316
+253,,2,"Gutsbezirk Rheinkardswald, Ahlberg",,EZ und MA,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,535511.587121,5701158.932737
+254,,3,"Zierenberg, Dörnberg",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,524001.848666,5690075.480891
+255,,4,"Wolfhagen-Niederelsungen, Burgberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,501834.944974,5687730.904539
+256,,5,"Kassel-Habichtswald, Hirzstein",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,528264.714760,5683894.325053
+257,,7,"Kassle-Habichtswald, Hunrodsberg",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,528357.964956,5679684.744785
+258,,6,"Baunatal-Altenbauna, Baunsberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,526133.281713,5682615.465225
+259,,8,"Niedenstein, Alteburg",,"UK?, FLT,SLT","Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,2.000000,3.000000,3.000000,3,,,,1,,,1,520238.537192,5677280.221878
+260,,10,"Baunatal-Großenritte, Burgberg",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,525100.868831,5677486.704455
+261,,11,"Edermünde-Besse, Bilstein",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,524694.564406,5675115.485190
+262,,12,"Fritzlar-Lohne, Hinterberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,516741.654848,5671585.299205
+263,,13,"Vöhl-Thalitter, Heckelsberg",,keine Datierungsangaben,Gensen 1999,0,3,,,1,1.000000,1.000000,1.000000,1.000000,1,,,,1,,,1,490538.349823,5670892.583465
+264,,14,"Waldeck-Nieder-Werbe, Hünselburg",,HaD,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,497785.222184,5670679.440160
+265,,9,"Meinhard-Motzenrode, Hohenstein",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,574090.525278,5678139.455826
+266,,15,"Wehretal-Reichensachsen-Oetmannshausen, Spitzenberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,567726.199413,5667608.844426
+267,,16,"Wehretal-Reichensachsen-Oetmannshausen, Zungenkopf",,keine Datierungsangaben,Gensen 1999,0,3,,,1,1.000000,1.000000,1.000000,1.000000,2,,,,1,,,1,571319.662316,5666629.717370
+268,,18,"Ringgau-Netra, Graburg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,579845.394505,5664498.284323
+269,,24,"Herleshausen_Markershausen, Burg Brandenfels",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,578140.248068,5656825.125353
+270,,20,"Sontra-Wichmannshausen, Boyneburg",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,572385.378840,5661940.564666
+271,,23,"Sontra-Berneberg, Kirchberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,563433.360041,5658530.271790
+273,,21,"Malsfeld-Beiseförth, Ringwall",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,540087.507445,5659902.381815
+274,,17,"Felsberg-Fensungen, Heilingenberg",,FLT,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,532084.642425,5664704.766899
+275,,19,"Felsberg-Rhünda, Rhündaer Berg",,FLT,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,529740.066073,5662157.038335
+276,,22,"Borken-Kleingils, Hundsburg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,516754.976305,5658956.558400
+277,,25,"Zwesten-Niederurff, Altenburg bei Römersberg",,"HaC, SLT",Gensen 1999,0,3,,,1,0.000000,3.000000,0.000000,3.000000,3,,,,1,,,1,515689.259781,5655546.265524
+278,,27,"Haina-Dodenhausen, Wüstegarten",,EZ?,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,505884.667764,5651603.114387
+279,,30,"Schwalmstadt-Michelsberg, Landsburg",,"UK, HaD, FLT","Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,3.000000,0.000000,3,,,,1,,,1,515196.365889,5646014.763366
+280,,35,"Neukirchen-Christerode, Burgberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,526999.176389,5635257.687205
+281,,42,"Rasdorf, Kleinberg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,562793.930127,5621443.336767
+282,,45,"Tann (Rhön), Habelberg",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,571106.519011,5610786.171531
+283,,43,"Hünfeld-Kirchhasel, Staffelberg",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,559596.780556,5619738.190329
+284,,54,"Hofbie ber-Danzwiesen, Milseburg",,"UK, HaD, FLT, SLT (KU nur bei Jockenhövel)","Gensen 1999, Jockenhövel 1980; Peschel 1999, Nr. 6",3,3,,,1,0.000000,3.000000,3.000000,3.000000,3,,,,1,,,1,564712.219869,5600768.436208
+285,,47,"Bad Salzschlirf, Sängersberg",,UK,Gensen 1999,3,3,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,1,,,1,538921.879997,5609720.455007
+286,,51,"Fulda-Maberzell, Schiebberg",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,544250.462615,5604605.015693
+287,,52,"Großenlüder-Bimbach, Heidenküppel",,"FLT, SLT?",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,2.000000,3,,,,1,,,1,542119.029568,5602473.582646
+288,,55,"Fulda-Haimbach, Haimberg",,UK,"Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,1,,,1,544037.319311,5599702.719685
+289,,26,"Battenberg, Eisenberg",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,473640.082195,5652315.812312
+290,,28,"Wetter-Mellnau, Lützelburg",,HaD,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,482012.617634,5647233.676640
+291,,29,"Münchhausen, Christenberg",,FLT,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,482652.047548,5645315.386897
+292,,31,"Lahntal-Sterzhausen, Eckelskirche",,EZ?,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,476684.035016,5636576.511403
+293,,32,"Wetter-Oberrosphe, Eibenhardt",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,485569.446532,5635370.919586
+294,,38,"Amöneburg, Amöneburg",,"UK, FLT-SLT",Gensen 1999,3,3,,,1,0.000000,0.000000,3.000000,3.000000,3,,,,1,,,1,494594.733341,5627331.420560
+295,,41,"Amöneburg-Mardorf, Hunnenburg",,"HaD, FLT?",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,495014.359222,5621230.193462
+296,,33,"Marburg-Wehrda, Weißer Stein",,keine Angaben,Gensen 1999,0,3,,,1,1.000000,1.000000,1.000000,1.000000,2,,,,1,,,1,482518.832983,5633882.246817
+297,,36,"Lahntal-Caldern, Rimberg",,FLT,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,473846.564771,5632313.645308
+298,,37,"Dautphetal-Hommertshausen, Burg-Eisenköpfe",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,465600.583170,5632100.502004
+299,,34,"Dietzhölztal-Rittershausen, Burg",,FLT,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,450041.121924,5634231.935051
+300,,40,"Dillenburg/Frohnhausen-Nanzenbach, Heunstein",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,1,,,1,457074.850980,5624427.343033
+301,,39,"Dautphetal-Holzhausen a.H., Hünstein",,EZ?,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,467205.818683,5627997.493388
+302,,44,"Staufenberg-Treis a.d. Lumda, Totenberg",,EZ?,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,485163.142107,5614043.267656
+303,,49,"Gießen-Wieseck, Hangelstein",,"UK, HaD, FLT, SLT","Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,3.000000,3.000000,3,,,,1,,,1,480710.445256,5608814.595962
+304,,46,"Biebertal-Fellinghausen, Dünsberg",,"UK, HaD, FLT, SLT","Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,3.000000,3.000000,3,,,,1,,,1,470263.092961,5610992.654107
+305,,48,"Aßlar-Oberlemp, Alderhorst",,EZ?,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,461277.770520,5609753.758648
+306,,50,"Greifenstein-Holzhausen, Wallanlage",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,450467.408534,5607375.878655
+307,,53,"Mengerskirchen, Rentmauer",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,1,,,1,442691.008275,5602550.181021
+308,,56,"Wetzlar, Stoppelberg",,HaD,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,0,,,0,466413.192019,5597624.572463
+309,,58,"Wetzlar-Nauborn, Bilstein",,HaD,Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,0,,,0,464321.723341,5596718.713418
+310,,57,"Merenberg-Barig-Selbenhausen, Almerskopf",,SLT,Gensen 1999,0,3,,,1,0.000000,0.000000,0.000000,3.000000,3,,,,0,,,0,444113.073761,5599416.308369
+311,,60,"Löhnberg, Hinterster Kopf",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,0,,,0,445818.220199,5596059.301319
+312,,62,"Merenberg, Roter Kopf",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,0,,,0,444499.396001,5596119.247874
+313,,61,"Merenberg, Höhburg",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,0,,,0,443800.019533,5595626.353982
+314,,59,"Dornburg-Wilsenroth, Dornburg",,"FLT, SLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,3.000000,3,,,,0,,,0,430858.224498,5596931.856723
+315,,64,"Hadamar-Steinbach, Heidenhäuschen",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,0,,,0,434268.517374,5592882.133933
+316,,63,"Weilburg-Odersbach, Scheuernberger Kopf",,EZ,Gensen 1999,0,3,,,1,0.000000,0.000000,2.000000,2.000000,3,,,,0,,,0,444925.682611,5589471.841057
+317,,66,"Butzbach-Hochweisel, Brüler Berg",,keine Datierungsangaben,Gensen 1999,0,3,,,1,1.000000,1.000000,1.000000,1.000000,2,,,,0,,,0,471608.560072,5583523.810710
+318,,65,"Butzbach-Hochweisel, Hausberg",,"UK, FLT, SLT (UK nur bei Jockenhövel)","Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,3.000000,3.000000,3,,,,0,,,0,472607.669313,5584462.973396
+319,,67,"Bad Nauheim, Johannisberg",,"UK, HaD, FLT, SLT","Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,3.000000,3.000000,3,,,,0,,,0,480568.904781,5579372.511814
+320,,68,"Glauburg-Glauberg, Glauberg",,"UK, HaD, FLT","Gensen 1999, Jockenhövel 1980",3,3,,,3,0.000000,3.000000,3.000000,0.000000,3,,,,0,,,0,501055.639766,5573259.628441
+321,,74,"Biebergemünd-Kassel, Alteburg",,SLT,Gensen 1999,0,3,,,3,0.000000,0.000000,0.000000,3.000000,3,,,,0,,,0,520704.788171,5562116.230041
+322,,76,Linsengericht-Großenhausen,,keine Datierungsangaben,Gensen 1999,0,3,,,1,1.000000,1.000000,1.000000,1.000000,2,,,,0,,,0,516328.689696,5557926.631957
+323,,69,"Bad Homburg v.d.H.-Obererlenbach, Gickelsburg",,"HaD, FLT",Gensen 1999,0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,0,,,0,470689.379570,5568563.815009
+324,,70,"Wehrheim-Oberhain, Roßkopf",,keine Datierungsangaben,Gensen 1999,0,3,,,3,1.000000,1.000000,1.000000,1.000000,2,,,,0,,,0,466313.281095,5567471.455572
+325,,71,"Bad Homburg-Dornholzhausen, Bleibeskopf",,UK,"Gensen 1999, Jockenhövel 1980",3,3,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,467032.639748,5566112.667005
+326,,72,"Oberursel-Oberstedten, Heidentränk-Oppidum (Goldgrube)",,"FLT, SLT","Gensen 1999, Jockenhövel 1980",0,3,,,1,0.000000,0.000000,3.000000,3.000000,3,,,,0,,,0,466366.566921,5563843.023846
+327,,73,"Oberursel-Oberstädten, Heidentränk-Oppidum (Altenhöfe)",,FLT,Gensen 1999,0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,0,,,0,465260.886028,5563181.946565
+328,,75,"Kronberg i. T., Altkönig",,"UK, FLT (UK nur bei Jockenhövel)","Gensen 1999, Jockenhövel 1980",3,3,,,3,0.000000,3.000000,3.000000,0.000000,3,,,,0,,,0,463062.845698,5562349.355530
+329,,77,"Hofheim a. T.-Lorsbach, Alteburg",,"HaD, FLT",Gensen 1999,0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,0,,,0,458192.188148,5554513.008717
+330,,79,"Hofheim a. T., Kappelenberg",,"UK, HaD, FLT",Gensen 1999,3,3,,,3,0.000000,3.000000,3.000000,0.000000,3,,,,0,,,0,459724.155651,5549747.257638
+331,,78,"Wiesbaden-Naurod, Kellerskopf",,keine Datierungsangaben,Gensen 1999,0,3,,,1,1.000000,1.000000,1.000000,1.000000,2,,,,0,,,0,448742.279911,5554199.954489
+332,,,Heidengraben,"Wall-Grabenanlage im Vorfeld des Heidengraben-Oppidums, vielleicht landwehrartig",,"Herrmann u. Jockenhövel 1990, 460-462.",0,1,Landwehr,,1,0.000000,0.000000,2.000000,2.000000,2,,,,0,,,0,468266.539661,5563126.995556
+333,,6,Dommelberg,UK-Wallanlage,UK: Ha A2-Ha B1,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,396622.081176,5570030.840411
+334,,5,Ernzweiler,UK-Wallanlage,ältere und mittlere UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,380423.190017,5513334.721353
+335,,4,Langenberg,UK-Wallanlage,Ha A2/B2,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,311364.759284,5525270.746418
+336,,9,Zargenbuckel,UK-Wallanlage,späte UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,542412.101612,5474116.353282
+337,,12,Kappelberg,UK-Wallanlage,Späte UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,525786.923843,5407189.355597
+338,,10,Lemberg,UK-Wallanlage,mittlere und Anfang jüngere UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,509588.032684,5405910.495768
+339,,13,Hesselberg,UK-Wallanlage,UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,617012.258268,5421256.813709
+340,,14,Gelbe Bürg,UK-Wallanlage,späte UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,631506.002990,5422109.386928
+341,,16,Schloßberg,UK-Wallanlage,Hügelgräberbronzezeit oder frühe UK,Jockenhövel 1974,3,0,,,1,2.000000,2.000000,0.000000,0.000000,3,,,,0,,,0,714631.891835,5456638.602294
+342,,15,Bogenberg,UK-Wallanlage,mittlere und jüngere UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,767917.718018,5430635.119117
+344,,11,Dreifaltigkeitsberg,UK-Wallanlage,UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,491683.995086,5333868.058769
+345,,7,Bad Buchau,"UK-Wallanlage, Wasserburg",ältere und mittlere UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,552216.693630,5328752.619456
+346,,18,Katzensteig,UK-Wallanlage,UK,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,635768.869085,5351345.809757
+347,,17,Birg,UK-Wallanlage,Ha A,Jockenhövel 1974,3,0,,,1,0.000000,3.000000,0.000000,0.000000,3,,,,0,,,0,675839.810374,5279303.372758
+348,,8,Buigen,UK-Wallanlage,UK?,Jockenhövel 1974,3,0,,,1,0.000000,2.000000,0.000000,0.000000,3,,,,0,,,0,589729.915263,5384596.165295
+349,,,keine näheren Angaben,Grubenfeldbefestigung,ez,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,535733.225450,6188354.858497
+350,,,keine näheren Angaben,Grubenfeldbefestigung,ez,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,516455.999337,6201603.836106
+351,,,keine näheren Angaben,Grubenfeldbefestigung,ez,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,0.000000,3,,,,1,,,1,478804.990804,6158711.349817
+352,,,keine näheren Angaben,Grubenfeldbefestigung,EZ,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,497299.134058,6218000.062431
+353,,,keine näheren Angaben,Grubenfeldbefestigung,EZ,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,486810.455068,6236645.769474
+354,,,Brændgaards Hede,"Grubenfeldbefestigung, Siedlungseinfriedung",ältere vorrömische Eisenzeit (~500−250 BC),Schlosser Mauritsen 2010,0,3,Grubenfeldbefestigung Typ Grøntoft,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,462814.117873,6228125.595801
+355,,,keine näheren Angaben,Grubenfeldbefestigung,ez,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,2.000000,2,,,,1,,,1,658919.941255,6077116.470297
+356,,,keine näheren Angaben,Grubenfeldbefestigung,ez,Schlosser Mauritsen 2011 (Karte),0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,514009.476572,6300201.721485
+357,,,Risum Østergård,"Grubenfeldbefestigung, Landwehr",ez,Schlosser Mauritsen 2010,0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,485275.099319,6248301.776519
+358,,,Tvis Møllevej,"Grubenfeldbefestigung, Landwehr",ez,Schlosser Mauritsen 2010,0,3,Grubenfeldbefestigung Typ Risum Østergård,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,480112.840280,6245826.375494
+359,,,Skraldhede,Grubenfeldbefestigung,ez,Schlosser Mauritsen 2010,0,3,Grubenfeldbefestigung Typ ?,,3,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,458295.644738,6215570.845404
+360,,,Galsted,umzäunte Siedlung,ez,Rindel 2010,0,3,umfriedete Siedlung,,1,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,513867.295224,6112303.707505
+361,,,Nørre Holsted,umzäunte Siedlung,ez,Rindel 2010,0,3,umfriedete Siedlung,,2,0.000000,0.000000,2.000000,0.000000,2,,,,1,,,1,494857.728676,6152923.890400
+362,,,Alteburg bei Stein-Wingert,Wallanlage,MLT,Kunow/Wegner 2006,0,3,,,3,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,410607.754032,5620386.394313
+363,,,Szczecin,,Ha C/D,Wesolowski 1996,0,3,,,2,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,865320.767514,5931753.286760
+364,,,,,sha/flt,"Sicherl 1999, Nr. 16",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,899755.437526,5448469.537611
+365,,,,,sha/flt,"Sicherl 1999, Nr. 56",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,896090.992029,5451217.871734
+366,,,,,sha/flt,"Sicherl 1999, Nr. 54",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,888533.073190,5451904.955265
+367,,,,,sha/flt,"Sicherl 1999, Nr. 2",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,880288.070820,5420528.140691
+368,,,,,sha/flt,"Sicherl 1999, Nr. 68",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,856927.230772,5457172.595668
+369,,,,,sha/flt,"Sicherl 1999, Nr. 36",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,854865.980179,5459233.846261
+370,,,,,sha/flt,"Sicherl 1999, Nr. 8",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,853491.813118,5450301.760360
+371,,,,,sha/flt,"Sicherl 1999, Nr. 64",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,832421.251506,5458775.790573
+372,,,,,sha/flt,"Sicherl 1999, Nr. 59",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,830360.000914,5584283.048870
+373,,,,,sha/flt,"Sicherl 1999, Nr. 61",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,852346.673900,5465188.570194
+374,,,,,sha/flt,"Sicherl 1999, Nr. 20",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,850972.506838,5472517.461190
+375,,,,,sha/flt,"Sicherl 1999, Nr. 57",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,872272.096293,5460608.013322
+376,,,,,sha/flt,"Sicherl 1999, Nr. 29",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,894716.824967,5462211.208228
+377,,,,,sha/flt,"Sicherl 1999, Nr. 65",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,858988.481364,5477098.018062
+378,,,,,sha/flt,"Sicherl 1999, Nr. 41",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,873417.235512,5475265.795313
+379,,,,,sha/flt,"Sicherl 1999, Nr. 33",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,866317.372360,5491984.827896
+380,,,,,sha/flt,"Sicherl 1999, Nr. 6",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,860591.676270,5500458.858110
+381,,,,,sha/flt,"Sicherl 1999, Nr. 25",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,878455.848071,5508016.776949
+382,,,,,sha/flt,"Sicherl 1999, Nr. 19",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,877539.736696,5513971.500883
+383,,,,,sha/flt,"Sicherl 1999, Nr. 14",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,854407.924492,5535271.090338
+384,,,,,sha/flt,"Sicherl 1999, Nr. 17",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,772415.956481,5495649.273394
+385,,,,,sha/flt,"Sicherl 1999, Nr. 62",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,776309.429822,5496565.384769
+386,,,,,sha/flt,"Sicherl 1999, Nr. 55",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,783180.265131,5501833.025171
+387,,,,,sha/flt,"Sicherl 1999, Nr. 15",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,786386.654941,5497252.468299
+388,,,,,sha/flt,"Sicherl 1999, Nr. 70",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,826237.499729,5492671.911427
+389,,,,,sha/flt,"Sicherl 1999, Nr. 32",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,829901.945226,5512139.278134
+390,,,,,sha/flt,"Sicherl 1999, Nr. 43",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,818679.580890,5513055.389508
+391,,,,,sha/flt,"Sicherl 1999, Nr. 45",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,819595.692264,5521529.419722
+392,,,,,sha/flt,"Sicherl 1999, Nr. 44",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,815473.191079,5516261.779319
+393,,,,,sha/flt,"Sicherl 1999, Nr. 46",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,797150.963591,5521987.475409
+394,,,,,sha/flt,"Sicherl 1999, Nr. 63",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,786615.682785,5521529.419722
+395,,,,,sha/flt,"Sicherl 1999, Nr. 28",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,797838.047121,5527484.143655
+396,,,,,sha/flt,"Sicherl 1999, Nr. 27",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,800815.409088,5526568.032281
+397,,,,,sha/flt,"Sicherl 1999, Nr. 39",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,789593.044752,5534354.978964
+398,,,,,sha/flt,"Sicherl 1999, Nr. 35",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,798983.186339,5543516.092708
+399,,,,,sha/flt,"Sicherl 1999, Nr. 71",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,802647.631837,5557028.735481
+400,,,,,sha/flt,"Sicherl 1999, Nr. 42",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,812037.773425,5542141.925646
+401,,,,,sha/flt,"Sicherl 1999, Nr. 37",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,827382.638947,5532064.700528
+402,,,,,sha/flt,"Sicherl 1999, Nr. 10",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,822344.026387,5540538.730741
+403,,,,,sha/flt,"Sicherl 1999, Nr. 23",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,865172.233142,5543516.092708
+405,,,,,sha/flt,"Sicherl 1999, Nr. 5",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,848224.172715,5550615.955860
+406,,,,,sha/flt,"Sicherl 1999, Nr. 60",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,913039.052455,5473433.572564
+407,,,,,sha/flt,"Sicherl 1999, Nr. 30",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,920825.999138,5514429.556570
+408,,,,,sha/flt,"Sicherl 1999, Nr. 9",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,889449.184564,5548096.649580
+409,,,,,sha/flt,"Sicherl 1999, Nr. 58",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,959302.676864,5550386.928016
+410,,,,,sha/flt,"Sicherl 1999, Nr. 7",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,955409.203523,5554738.457045
+411,,,,,sha/flt,"Sicherl 1999, Nr. 38",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,943957.811342,5573060.684533
+412,,,,,sha/flt,"Sicherl 1999, Nr. 22",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,952202.813712,5587031.382993
+413,,,,,sha/flt,"Sicherl 1999, Nr. 1",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,910748.774019,5558402.902542
+414,,,,,sha/flt,"Sicherl 1999, Nr. 12",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,915558.358735,5562296.375884
+415,,,,,sha/flt,"Sicherl 1999, Nr. 49",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,924948.500323,5570083.322566
+416,,,,,sha/flt,"Sicherl 1999, Nr. 51",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,894029.741436,5558631.930386
+417,,,,,sha/flt,"Sicherl 1999, Nr. 50",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,892197.518687,5566876.932756
+418,,,,,sha/flt,"Sicherl 1999, Nr. 5",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,888762.101033,5568251.099817
+419,,,,,sha/flt,"Sicherl 1999, Nr. 31",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,866317.372360,5563212.487258
+420,,,,,sha/flt,"Sicherl 1999, Nr. 24",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,876394.597478,5579015.408467
+421,,,,,sha/flt,"Sicherl 1999, Nr. 26",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,840437.226032,5569625.266879
+422,,,,,sha/flt,"Sicherl 1999, Nr. 40",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,853033.757431,5592069.995552
+423,,,,,sha/flt,"Sicherl 1999, Nr. 11",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,836772.780534,5575579.990813
+424,,,,,sha/flt,"Sicherl 1999, Nr. 66",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,831276.112288,5578557.352780
+425,,,,,sha/flt,"Sicherl 1999, Nr. 47",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,817992.497359,5578328.324936
+426,,,,,sha/flt,"Sicherl 1999, Nr. 69",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,822573.054231,5584512.076713
+427,,,,,sha/flt,"Sicherl 1999, Nr. 48",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,831505.140132,5590237.772804
+428,,,,,sha/flt,"Sicherl 1999, Nr. 53",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,806541.105178,5587260.410837
+429,,,,,sha/flt,"Sicherl 1999, Nr. 13",0,3,,,1,0.000000,0.000000,0.000000,0.000000,0,,,,0,,,0,813411.940487,5595734.441050
+430,,,"Turnov-Masov, Bez. Semily, ""Certová ruka""",,sha/flt,"Sicherl 1999, Nr. 67",0,3,0,,1,0.000000,0.000000,0.000000,0.000000,0,,,,1,,,0,938232.115252,5620469.448160
+431,,,"Bosen-Musky, Bez. Mladá Boleslav, ""Klamorna""",,sha/flt,"Sicherl 1999, Nr. 4",0,3,0,,1,0.000000,0.000000,0.000000,0.000000,0,,,,1,,,0,925635.583854,5613369.585008
+432,,,"Bosen-Musky, Bez. Mladá Boleslav, ""Hrada""",,sha/flt,"Sicherl 1999, Nr. 3",0,3,0,,1,0.000000,0.000000,0.000000,0.000000,0,,,,1,,,0,928612.945821,5614972.779913
+433,,,"Katusice-Sudomer, Bez. Mladá Boleslav, ""Hrádek""",,sha/flt,"Sicherl 1999, Nr. 21",0,3,0,,1,0.000000,0.000000,0.000000,0.000000,0,,,,1,,,0,911435.857550,5604895.554794
+434,,,"Most, Bez. Most, ""Hnevin""",,sha/flt,"Sicherl 1999, Nr. 34",0,0,3,1,1,0.000000,0.000000,0.000000,0.000000,0,,,,1,,,0,826695.555416,5607643.888918
+435,,,"Erbenhausen, Alte Mark",Ringmauer,FLT,"Peschel 1999, Nr. 9",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,582780.901975,5604208.471264
+436,,,"Diedorf, Höhn",gestaffelte Wallanlage,eher Ha als BZ,"Peschel 1999, Nr. 8",1,2,,,1,0.000000,1.000000,2.000000,0.000000,3,,,,1,,,1,578887.428634,5613140.557164
+437,,,"Dernbach, Hessenkuppe/Röderburg",ovale Ringmauer mit Tangentialtor. ,bis MLT,"Peschel 1999, Nr. 7",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,577971.317259,5619095.281098
+438,,,"Möbisburg, Kirchberg",Abschnittsbefestigung mit Vorwall,SHA/FLT,"Peschel 1999, Nr. 20",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,642328.141313,5641310.981928
+439,,,"Arnstadt, Alteburg",Abschnittsbefestigung mit Vorwall,SHA/FLT,"Peschel 1999, Nr. 1",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,638205.640128,5633524.035245
+440,,,"Steinbach-Hallenberg, Hallenburg","Mittelalterburg mit Ha-Keramik, ohne gesicherte Ha-Befestigung.",SHA,"Peschel 1999, Nr. 35",0,1,,,1,0.000000,0.000000,1.000000,0.000000,1,,,,1,,,1,607973.964772,5618179.169724
+441,,,"Wohlmuthausen, Diesburg",Ringwall mit Tangentialtoor,FLT,"Peschel 1999, Nr. 40",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,586903.403160,5605124.582638
+442,,,"Vacha, Öschenberg",,"SHA, MLT","Peschel 1999, Nr. 37",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,574764.927449,5630317.645435
+443,,,"Vogelsberg, Clausberg",,SHA/FLT-MLT,"Peschel 1999, Nr. 39",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,653779.533493,5666733.072568
+444,,,"Quedlinburg, Schloßberg",,Ha/FLT,"Peschel 1999, Nr. 27",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,644790.190631,5745919.449495
+445,,,"Pansfelde, Bartenberg",,SHA-FLT,"Peschel 1999, Nr. 26",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,656470.610655,5732864.862409
+446,,,"Halberstadt, Klusberge/Die Klus","Felsplateau, keine Angaben zur Befestigung",SHA/FLT,"Peschel 1999, Nr. 12",0,3,,,1,0.000000,0.000000,3.000000,0.000000,1,,,,1,,,1,641125.745134,5756912.785988
+447,,,"Ballenstedt, Kleiner Gegenstein",,SHA/FLT,"Peschel 1999, Nr. 3",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,656699.638499,5738361.530656
+448,,,"Untermhaus, Hainberg/Schloß Osterstein",,eher SHA als FLT,"Peschel 1999, Nr. 36",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,718079.100585,5627053.998663
+449,,,"Oettern, Otternburg",,SHA/FLT,"Peschel 1999, Nr. 24",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,666318.807930,5638505.390844
+450,,,"Hetschburg, Heidingsburg",,SHA/FLT,"Peschel 1999, Nr. 15",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,662883.390276,5635757.056720
+451,,,"Questenberg, Die Queste",,SHA/FLT-MLT,"Peschel 1999, Nr. 28",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,650515.886722,5706526.660395
+452,,,"Niedersachswerfen, Kohnsteinkopf",,SHA/FLT,"Peschel 1999, Nr. 21",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,620971.294896,5717978.052575
+453,,,"Haynrode, Hasenburg",,SHA/FLT,"Peschel 1999, Nr. 14",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,600358.788972,5709045.966674
+454,,,"Hainrode, Webelsburg",,SHA,"Peschel 1999, Nr. 11",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,617535.877242,5701259.019992
+455,,,"Schnellmannshausen, hüneburg am Heldrastein",,SHA/FLT,"Peschel 1999, Nr. 33",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,585758.263942,5663412.168836
+456,,,"Lauchröden, Brandenburg",,SHA/FLT,"Peschel 1999, Nr. 18",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,582265.589327,5650300.324789
+457,,,"Beichlingen, Monraburg",,eher SHA als FLT,"Peschel 1999, Nr. 4",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,661337.452332,5676008.700234
+458,,,"Schallenburg, Schallenburg",,SHA,"Peschel 1999, Nr. 32",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,645076.475436,5666389.530803
+459,,,"Ranis, Burgberg",,SHA-FLT,"Peschel 1999, Nr. 29",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,684984.577184,5608044.687644
+460,,,"Obernitz, Gleitsch",,SHA/FLT-MLT,"Peschel 1999, Nr. 22",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,672044.504021,5603922.186459
+461,,,"Steinroda, Dohlenstein",,SHA(∕FLT),"Peschel 1999, Nr. 34",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,685557.146793,5623160.525322
+462,,,"Graitschen bei Bürgel, Alter Gleisberg",,FLT-MLT,"Peschel 1999, Nr. 10",0,3,,,1,0.000000,0.000000,3.000000,0.000000,3,,,,1,,,1,693916.663085,5641940.808498
+463,,,"Kühren/Burkartshain-Oelschütz, Sonnenmühlwall",,"UK und Lt Funde, eher jüngere Latènezeit","Jockenhövel u. Simon 1999, Nr. 11",2,2,,,1,0.000000,2.000000,2.000000,1.000000,2,,,,1,,,1,763196.467421,5684813.101102
+464,,,"Meißen, Burgberg",,"Ha A-HaD2/3/Lt A, Lt D","Jockenhövel u. Simon 1999, Nr. 4",3,3,,,1,0.000000,3.000000,3.000000,3.000000,3,,,,1,,,1,815575.513512,5674035.996486
+465,,,"Riesa-Poppitz, Burgberg",,"Ha A- Ha C, überwiegend Ha D-Lt A","Jockenhövel u. Simon 1999, Nr. 7",2,3,,,1,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,800394.860773,5690723.126214
+466,,,"Oschatz-Rosenthal, Schwedenschanze",,"Ha D/Lt A, wenig UK bis Ha C","Jockenhövel u. Simon 1999, Nr. 10",2,3,,,1,0.000000,2.000000,3.000000,0.000000,3,,,,1,,,1,788806.576240,5691881.954667
+467,,,"Elsnig, Kesselberg",,Ha B-Ha C(Ha D/Lt A),"Jockenhövel u. Simon 1999, Nr. 8",3,2,,,1,0.000000,3.000000,2.000000,0.000000,3,,,,1,,,1,772817.907304,5726250.559018
+468,,,"Dohna, Burgber/Schlossberg",,"Bz A2-B, Ha B1, Ha B3, wenig Ha D-Lt A","Jockenhövel u. Simon 1999, Nr. 2",3,1,,,1,3.000000,3.000000,1.000000,0.000000,3,,,,1,,,1,844498.611115,5654892.736405
+469,,,"Poschendorf-Wlatersdorf, Lilienstein",,"BZ-Lt, nur UK gesichert","Jockenhövel u. Simon 1999, Nr. 1",3,2,,,1,1.000000,3.000000,1.000000,0.000000,3,,,,1,,,1,859174.841515,5656367.109442
+487,,,Wodzisko,,Periode V / Ha C,"Malinowski 1954, Nr. 32; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1088494.848971,5814308.369626
+486,,,Kownaty,,Periode V / Ha C,"Malinowski 1954, Nr. 11; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1117542.366051,5856851.414552
+485,,,Wilczyn,,Periode V / Ha C,"Malinowski 1954, Nr. 31; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1135279.345506,5856337.299206
+484,,,Kopiec,,Periode V / Ha C,"Malinowski 1954, Br, 10; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1060861.149094,5892582.431137
+483,,,unverivizierte Anlage ohne nähere Angaben,,Periode V / Ha C,"Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,1,,,,1,,,1,1120627.058130,5879601.018637
+482,,,Szarlej,,Periode V / Ha C,"Malinowski 1954, Nr. 27; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1124354.394392,5883328.354899
+481,,,Stodolno,,Periode V / Ha C,"Malinowski 1954, Nr, 26; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1115228.846991,5881657.480023
+480,,,Kołuda Wielka,,Periode V / Ha C,"Malinowski 1954, Nr. 8; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1118570.596744,5886670.104652
+479,,,unverivizierte Anlage ohne nähere Angaben,,Periode V / Ha C,"Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,1,,,,1,,,1,1079369.301569,5877158.970741
+478,,,unverivizierte Anlage ohne nähere Angaben,,Periode V / Ha C,"Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,1,,,,1,,,1,1069215.523475,5833073.579774
+477,,,Radzim,,Periode V / Ha C,"Malinowski 1954, Nr. 22; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1038497.131519,5874845.451681
+476,,,Dakowy Mokre,,Periode V / Ha C,"Malinowski 1954, Nr. 3; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1028343.353425,5843998.530889
+475,,,Pawłowice,,Periode V / Ha C,"Malinowski 1954, Nr. 17; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1038111.545009,5859293.462448
+474,,,Ostroróg,,Periode V / Ha C,"Malinowski 1954, Nr. 15; Harding 2004, o. Nr. ",0,3,Lausitzer Burg,,1,0.000000,1.000000,1.000000,0.000000,2,,,,1,,,1,1002509.057261,5856465.828042
+473,,10,Świetne,,Periode V / Ha C,"Harding 2004, Nr. 10",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,,,,1,,,1,1114971.789318,5854537.895493
+472,,9,Ostrowite Trzemeszeńskie,,Periode V / Ha C,"Harding 2004, Nr. 9",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,,,,1,,,1,1101347.732634,5857879.645245
+471,,14,Bnin,,Periode V / Ha C,"Harding 2004, Nr. 14; Malinowski 1954, Nr. 2",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,,,,1,,,1,1051350.015183,5818292.763561
+470,,2,Objezierze,,Periode V / Ha C,"Harding 2004, Nr. 2",0,3,Lausitzer Burg,,1,0.000000,3.000000,1.000000,0.000000,3,,,,1,,,1,1023973.372979,5857237.001062
+488,,,"Polanowice (ehem. Niemitzsch), Woj. Zielona Göra",,Ha D,"Mierzwinski 1996, Karte 6; Koepke 1995, Nr. 51",0,3,,,1,0.000000,3.000000,2.000000,0.000000,2,,,,1,,,1,890946.027060,5764053.594501
+489,,64,"Starosiedle (ehem. Starzeddel), Woj. Zielona Göra",,Ha D,"Dräger 2014, Nr. 64; Mierzwinski 1996, Karte 6; Koepke 1995, Nr. 63",0,3,Lausitzer Burg,,1,0.000000,3.000000,2.000000,0.000000,2,,,,1,,,1,894416.305649,5754413.931753
+490,,,Anlage ohne nähere Angaben,,Ha C/D,"Mierzwinski 1996, Karte 5/6",0,3,,,1,0.000000,3.000000,2.000000,0.000000,2,,,,1,,,1,918836.784610,5751971.883857
+491,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,923335.293892,5737448.125317
+504,,,Anlage ohne nähere Angaben,,,"Mierzwinski 1996, Karte 5∕6",0,0,,1,1,0.000000,0.000000,0.000000,0.000000,2,,,,1,,,1,986571.481518,5753257.172223
+493,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,973590.069017,5742974.865292
+494,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,962408.060230,5748501.605268
+495,,,Anlage ohne nähere Angaben,,Ha C/D,"Mierzwinski 1996, Karte 5∕6",0,3,,,1,0.000000,3.000000,2.000000,0.000000,2,,,,1,,,1,956495.733745,5750043.951307
+496,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,962022.473720,5766881.228907
+497,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,918451.198100,5782818.804650
+498,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,925391.755279,5778448.824204
+499,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,922435.592036,5793486.698090
+500,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,908425.948843,5791173.179031
+501,,,Anlage ohne nähere Angaben,,Ha C,"Mierzwinski 1996, Karte 5; Prahistoria ziem polskich IV, Nr. 214",0,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,964335.992780,5826004.493759
+502,,,Anlage ohne nähere Angaben,,Periode 5; Ha C,"Mierzwinski 1996, Karte 4/5",2,3,,,1,0.000000,3.000000,1.000000,0.000000,2,,,,1,,,1,897629.526565,5827675.368636
+503,,,Anlage ohne nähere Angaben,,Periode V,"Mierzwinski 1996, Karte 4",2,3,,,1,0.000000,3.000000,0.000000,0.000000,2,,,,1,,,1,943642.850081,5786931.727422
+537,,,"Kargowa, woj. zielonogórskie",,,"Prahistoria ziem polskich IV, Nr. 138",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,965878.338819,5812380.437076
+535,,,"Gzin, woj. toruńskie",,,"Prahistoria ziem polskich IV, Nr. 118",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1122169.404170,5940395.158366
+534,,,"Slup, Mlyn, woj. toruńskie",,,"Prahistoria ziem polskich IV, Nr. 222",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1159956.882141,5975097.944258
+533,,,"Baldram, woj. elblaskie",,,"Prahistoria ziem polskich IV, Nr. 89",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1158928.651448,6007230.153417
+532,,,"Szczecinek, woj. koszalińskie",,,"Prahistoria ziem polskich IV, Nr. 237",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1010092.258622,5971499.136832
+530,,,"Swobnica, woj. szcezecińskie",,,"Prahistoria ziem polskich IV, Nr. 233",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,880278.133619,5894381.834850
+529,,,"Uvalno-Selenburk, okr. Bruntal",,,"Prahistoria ziem polskich IV, Nr. 246",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1133479.941794,5575373.262318
+528,,,"Hrádec, okr. Opava",,,"Prahistoria ziem polskich IV, Nr. 121",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1137335.806893,5558150.398209
+527,,,"Starosiedle, woj. zielonogórskie",,,"Prahistoria ziem polskich IV, Nr. 128",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1244528.856648,5617273.663061
+526,,,"Tyniec, woj. krakowskie",,,"Prahistoria ziem polskich IV, Nr. 245",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1274347.546747,5591053.780388
+525,,99,"Zawada Lanckorońska, pow. Tarnowski (woj. Małopolskie)
+",,Jungbronzezeit u. Früheisenzeit,"Dräger 2014, Nr. 99; Prahistoria ziem polskich IV, Nr. 259",2,3,Lausitzer Burg,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1301081.544768,5597994.337566
+524,,,"Skrben, okr. Olomouc",,,"Prahistoria ziem polskich IV, Nr. 221",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1093636.002436,5530131.111822
+523,,,"Boskovice, okr. Blansko",,,"Prahistoria ziem polskich IV, Nr. 100",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1062017.908624,5497998.902663
+522,,,"Hradisko, okr Uheské",,,"Prahistoria ziem polskich IV, Nr. 124",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1118056.481397,5501597.710088
+521,,,"Bratrejov-Klástor, okr. Gottvaldow",,,"Prahistoria ziem polskich IV, Nr. 101",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1137335.806893,5511108.843999
+520,,,"Chvalcov-Hostýn, okr Kromeriz",,,"Prahistoria ziem polskich IV, Nr. 106",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1166126.266299,5493371.864544
+519,,,"Istebne-Hrádok, ok. Dolny Kubin",,,"Prahistoria ziem polskich IV, Nr. 126",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1244014.741301,5501854.767762
+518,,,Mnich k. Ruzomberku,,,"Prahistoria ziem polskich IV, Nr. 177",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1254297.048232,5494143.037563
+515,,,"Tupá skála, okr. Dolný Kubin",,,"Prahistoria ziem polskich IV, Nr. 244",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1258667.028678,5503911.229148
+516,,,"Biel, okr. Dolný Kubin",,,"Prahistoria ziem polskich IV, Nr. 94",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1271262.854668,5513679.420732
+517,,,xxxx unlesbar,,,"Prahistoria ziem polskich IV, Nr. 197",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1263808.182143,5522419.381624
+514,,,Doudleby pod Vamberkiem,,,"Prahistoria ziem polskich IV, Nr. 110",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1029885.699464,5574345.031625
+513,,,Nové Mesto n. Metuja,,,"Prahistoria ziem polskich IV, Nr. 187",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1011377.546989,5605191.952418
+512,,,"Kamieniec, woj. katowicki",,,"Prahistoria ziem polskich IV, Nr. 133",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1188233.226201,5625499.508606
+511,,,"Kurów, woj. sieradzkie",,,"Prahistoria ziem polskich IV, Nr. 158",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1160213.939814,5723181.424450
+510,,,"Konopnica, woj. sieradzkie",,,"Prahistoria ziem polskich IV, Nr. 146",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1181549.726696,5727037.289549
+509,,,"Szczawno-Topiel, woj. sieradzkie",,,"Prahistoria ziem polskich IV, Nr. 235",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1173580.938824,5738604.884846
+508,,,"Strobin, woj. sieradzkie",,,"Prahistoria ziem polskich IV, Nr. 231",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,1150959.863576,5734234.904401
+507,,,"Pomorsko, woj, z.",,,"Prahistoria ziem polskich IV, Nr. 204",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,960480.127681,5791558.765541
+506,,,"Koberice, okr. Opava",,,"Prahistoria ziem polskich IV, Nr. 142",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1149050.332633,5576225.730681
+505,,,"Dneboh-Muzský, okr. Mnichovo, Hradiste",,,"Prahistoria ziem polskich IV, Nr. 108",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,935077.881708,5613098.267916
+535,,,"Temeszów, woj. krośnieńskie",,,"Prahistoria ziem polskich IV, Nr. 240",1,2,,,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1444262.668781,5589768.492021
+536,,,"Sachsenburg, Lkr. Mittweida",,,"Koepke 1995, Nr. 56",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,778954.283716,5654513.729485
+537,,,"Fischendorf, Lkr. Döbel",,,"Koepke 1995, Nr. 14",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,791625.815030,5668492.641013
+538,,,"Zschaitz, Lkr. Döbeln",,,"Koepke 1995, Nr. 69",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,794843.981713,5676538.057720
+539,,,"Korbitz, Lkr. Meißen",,,"Koepke 1995, Nr. 28",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,821092.153719,5676336.922302
+540,,,"Meißen-Siebeneichen, Lkr. Meißen",,Billendorf?,"Koepke 1995, Nr. 39",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,812745.033886,5679253.385859
+542,,,"Brohna, Ot. von Radibor, Lkr. Bautzen",,ältere EZ mit älterer offener Siedlung,"Koepke 1995, Nr. 7",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,879320.857136,5693433.432805
+543,,,"Wittichenau, Lkr. Hoyerswerda",,,"Koepke 1995, Nr. 68",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,860112.424748,5707613.479751
+544,,,"Mehderitzsch, Lkr. Torgau-Oschatz",,,"Koepke 1995, Nr. 38",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,779054.851425,5715156.057913
+546,,,"Groß Mehßow, Lkr. Oberspreewald-Lausitz",,,"Koepke 1995, Nr. 17",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,839395.476727,5748041.698703
+549,,,"Quenstedt, Lkr. Mansfelder Land",,,"Koepke 1995, Nr. 53",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,674062.163399,5728833.266315
+550,,,"Bollersdorf, Lkr. Märkisch-Oderland",,"jüngere, jüngste Bz etwas Billendorf","Koepke 1995, Nr. 6; Buck 1982",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,838389.799639,5843178.751263
+551,,,"Stolzenhagen, Lkr. Barnim, 65 Swobnica (ehem. Wildenbruch)",,,"Koepke 1995, Nr. 64",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,842010.237157,5878779.720191
+552,,,"Siadlo Dolne (ehem. Niederzahden), Woj. Szczecin",,,"Koepke 1995, Nr. 62",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,861520.372672,5915989.772461
+553,,,"Schwennenz, Ot. von Grambow, Lkr. Uecker-Randow",,,"Koepke 1995, Nr. 59",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,857095.393483,5920917.590194
+554,,,"Jaromirowice (ehem. Germersdorf), Woj. Zielona Göra",,,"Koepke 1995, Nr. 20",2,2,,,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,895813.961385,5776703.495722
+555,,,Rohrbeck Ot. Von Dallgow,,,"Buck 1982, Nr. 17",2,2,,,2,0.000000,2.000000,2.000000,0.000000,2,,,,1,,,1,773474.561882,5828450.614184
+556,,,Kiertz,nur Graben um die Siedlung	,,"Breddin 1982, 92, Gedl 1970, Gediga 1982, 181f.",2,2,,1,1,0.000000,2.000000,2.000000,0.000000,2,,,,0,,,0,1420715.354429,5755755.719276
+557,,,Jurkowo,,,Harding et al. 2009,0,3,Biskupin Typ	,1,1,0.000000,3.000000,0.000000,0.000000,3,,,,1,,,1,1033932.784580,5789053.282993
+558,,,Ewinów,,,"Malinowski 1954, Nr, 4",0,0,,1,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,1170724.576416,5802106.449031
+559,,,Topola Wielka,,Ha,"Malinowski 1954, Nr. 30",0,0,,1,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,1125161.359059,5738317.944732
+560,,,Śląskowo,,Ha,"Malinowski 1954, Nr. 28",0,0,,1,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,1065449.563681,5744792.717725
+561,,,Siemowo,,Ha,"Malinowski 1954, Nr. 23",0,0,,1,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,1046265.051110,5776926.776281
+562,,,Powodowo,,,"Malinowski 1954, Nr. 18",0,0,,1,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,981277.514775,5798029.740110
+563,,,Łagów,,Ha,"Malinowski 1954, Nr. 14",0,0,,1,1,0.000000,2.000000,2.000000,0.000000,3,,,,1,,,1,926122.041132,5822729.800045

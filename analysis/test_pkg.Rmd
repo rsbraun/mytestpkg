@@ -173,7 +173,10 @@ points(harran_poispp1, col="red")
 points(harran_poispp2, col="blue")
 points(harran_poispp3, col="green")
 
+## Second order effects
 
+harran_g <- Gest(harran_ppp2)
+str(harran_g)
 
 ```
 
