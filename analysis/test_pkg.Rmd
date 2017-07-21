@@ -139,7 +139,7 @@ plot(bw.ppl(harran_ppp2), xlim=c(2000,5000))
 ##---------------------------
 # load raster
 library(raster)
-dem <- raster("./data/ReReLA/data/dem_harran.tif")
+dem <- raster("../data/ReReLA/data/dem_harran.tif")
 
 # convert raster to pixel image
 t <- as(dem, "SpatialGridDataFrame")
