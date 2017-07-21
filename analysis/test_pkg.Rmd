@@ -163,8 +163,8 @@ dens1 <- harran_ppp2$n/area.owin(harran_ppp2$window)
 #set.seed(123)
 harran_poispp1 <- rpoispp(lambda = dens1, win = harran_ppp2$window)   # poisson - complete spatial randomness 
 
-## or
-dens2 <- intensity(harran)
+## or /error
+dens2 <- intensity(harran_ppp2)
 #set.seed(123)
 harran_poispp2 <- rpoispp(lambda = dens2, win = harran_ppp2$window)
 
@@ -189,7 +189,7 @@ harran_ge <- envelope(harran_ppp2, fun="Gest")
 plot(harran_ge)
 # greyish curve - result of all 99 cases - becomes wider with more simulations
 harran_ge1000 <- envelope(harran_ppp2, fun="Gest", nsim=1000)
-plot(harran_ge500)
+plot(harran_ge1000)
 
 # F-Function
 harran_f <- Fest(harran_ppp2)
